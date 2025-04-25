@@ -1,0 +1,1 @@
+{"id":"decorative_halloween_treeface","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorative_halloween_treeface","offset":{"x":0,"y":-180},"hitArea":{"points":[{"x":-160,"y":9},{"x":0,"y":89},{"x":160,"y":9},{"x":0,"y":-71}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"decorative_halloween_treeface"},"workshop":{}}}

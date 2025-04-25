@@ -1,0 +1,1 @@
+{"id":"sheep_2","extends":"base_animal","components":{"sounds":{"reveal":{"alias":"spawn_sheep_2"}},"sprite":{"alias":"obj_animal_sheep_01","offset":{"x":-9,"y":-51}},"mergeable":{"target":"sheep_3","expReward":9}}}

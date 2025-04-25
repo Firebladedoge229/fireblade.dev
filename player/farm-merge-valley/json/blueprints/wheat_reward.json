@@ -1,0 +1,1 @@
+{"id":"wheat_reward","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_wheat"},"collectable":{"reward":[{"key":"wheat","amount":1}]}}}

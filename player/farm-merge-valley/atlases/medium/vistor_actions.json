@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "icon_balloon_friend": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 82,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 82
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_balloon_heavyobj": {
+      "frame": {
+        "x": 4,
+        "y": 94,
+        "w": 69,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_balloon_hugtree": {
+      "frame": {
+        "x": 4,
+        "y": 182,
+        "w": 48,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_balloon_watercrops": {
+      "frame": {
+        "x": 4,
+        "y": 260,
+        "w": 45,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_home": {
+      "frame": {
+        "x": 4,
+        "y": 338,
+        "w": 71,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_balloon_boostbuilding": {
+      "frame": {
+        "x": 57,
+        "y": 260,
+        "w": 64,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 66
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_balloon_petanimals": {
+      "frame": {
+        "x": 60,
+        "y": 182,
+        "w": 66,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 65
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_balloon_unloaddelivery": {
+      "frame": {
+        "x": 81,
+        "y": 94,
+        "w": 56,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 65
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "vistor_actions.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 141,
+      "h": 411
+    },
+    "scale": 0.5538461538461539
+  }
+}

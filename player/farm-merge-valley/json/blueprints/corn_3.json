@@ -1,0 +1,1 @@
+{"id":"corn_3","extends":"base_crop","components":{"sounds":{"reveal":{"alias":"spawn_crop_3"}},"sprite":{"alias":"obj_crops_corn_02","offset":{"x":0,"y":-62}},"mergeable":{"target":"corn_4","expReward":27}}}

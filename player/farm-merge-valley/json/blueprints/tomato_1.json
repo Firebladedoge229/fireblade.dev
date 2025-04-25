@@ -1,0 +1,1 @@
+{"id":"tomato_1","extends":"base_crop","components":{"sounds":{"reveal":{"alias":"crate_reveal_crop"}},"sprite":{"alias":"obj_crops_tomato_00","offset":{"x":4,"y":-31}},"mergeable":{"target":"tomato_2","expReward":3}}}

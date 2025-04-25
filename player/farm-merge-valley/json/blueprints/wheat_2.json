@@ -1,0 +1,1 @@
+{"id":"wheat_2","extends":"base_crop","components":{"sounds":{"reveal":{"alias":"spawn_crop_2"}},"sprite":{"alias":"obj_crops_wheat_01","offset":{"x":-2,"y":-43}},"mergeable":{"target":"wheat_3","expReward":9}}}

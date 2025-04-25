@@ -1,0 +1,1 @@
+{"id":"heavy_object_wheel","extends":"base_heavy_object","components":{"sprite":{"alias":"obj_heavy_tractorwheel","pivot":{"x":0,"y":0}},"extendedTile":{"width":1,"height":1},"heavyObject":{"customShareImage":"cs_help_obstruction_wheel"},"hitpoints":{"max":1}}}

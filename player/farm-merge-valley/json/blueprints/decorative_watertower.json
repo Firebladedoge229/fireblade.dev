@@ -1,0 +1,1 @@
+{"id":"decorative_watertower","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorateive_watertower_broken","offset":{"x":36,"y":-276},"hitArea":{"points":[{"x":-320,"y":180},{"x":0,"y":340},{"x":320,"y":180},{"x":0,"y":20}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"decorative_watertower"},"workshop":{}}}

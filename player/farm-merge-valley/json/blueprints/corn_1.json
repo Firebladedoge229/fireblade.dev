@@ -1,0 +1,1 @@
+{"id":"corn_1","extends":"base_crop","components":{"sprite":{"alias":"obj_crops_corn_00","offset":{"x":-2,"y":-25}},"mergeable":{"target":"corn_2","expReward":3}}}

@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "movement": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 175,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hit": {
+      "frame": {
+        "x": 187,
+        "y": 4,
+        "w": 102,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 102,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "pick_axe": {
+      "frame": {
+        "x": 4,
+        "y": 70,
+        "w": 90,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "pick_axe.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 293,
+      "h": 136
+    },
+    "scale": 0.5538461538461539
+  }
+}

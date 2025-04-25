@@ -1,0 +1,1 @@
+{"id":"energy_4","extends":"base_mergable","components":{"sprite":{"alias":"obj_energy_03","offset":{"x":0,"y":0}},"collectable":{"reward":[{"key":"energy","amount":270}]},"energy":{},"currency":{}}}

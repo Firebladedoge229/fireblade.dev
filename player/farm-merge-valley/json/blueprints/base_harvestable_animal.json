@@ -1,0 +1,1 @@
+{"id":"base_harvestable_animal","extends":"base_animal","components":{"harvestable":{"harvestableType":"animal"}}}

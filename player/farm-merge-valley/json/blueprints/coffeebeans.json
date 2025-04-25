@@ -1,0 +1,1 @@
+{"id":"coffeebeans","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_coffeebeans"},"collectable":{"reward":[{"key":"coffeebeans","amount":1}]}}}

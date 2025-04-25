@@ -1,0 +1,113 @@
+{
+    "skeleton": {
+        "hash": "ZNhb/8Gb1LPpWF9JfLkzjtG6iFM",
+        "spine": "3.8.99",
+        "x": -150,
+        "y": -1500,
+        "width": 1201,
+        "height": 2531,
+        "images": "./images/",
+        "audio": ""
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "s_fx_stars", "parent": "root" }
+    ],
+    "slots": [
+        {
+            "name": "s_fx_stars_01",
+            "bone": "s_fx_stars",
+            "attachment": "s_fx_stars_01"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "s_fx_stars_01": {
+                    "s_fx_stars_01": {
+                        "width": 300,
+                        "height": 300
+                    },
+                    "s_fx_stars_02": {
+                        "width": 300,
+                        "height": 300
+                    },
+                    "s_fx_stars_03": {
+                        "width": 300,
+                        "height": 300
+                    },
+                    "s_fx_stars_04": {
+                        "width": 300,
+                        "height": 300
+                    },
+                    "s_fx_stars_05": {
+                        "width": 300,
+                        "height": 300
+                    },
+                    "s_fx_stars_06": {
+                        "width": 300,
+                        "height": 300
+                    },
+                    "s_fx_stars_07": {
+                        "width": 300,
+                        "height": 300
+                    },
+                    "s_fx_stars_08": {
+                        "width": 300,
+                        "height": 300
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "animation": {
+            "slots": {
+                "s_fx_stars_01": {
+                    "attachment": [
+                        {
+                            "name": null
+                        },
+                        {
+                            "time": 0.0667,
+                            "name": "s_fx_stars_01"
+                        },
+                        {
+                            "time": 0.1333,
+                            "name": "s_fx_stars_02"
+                        },
+                        {
+                            "time": 0.2,
+                            "name": "s_fx_stars_03"
+                        },
+                        {
+                            "time": 0.2667,
+                            "name": "s_fx_stars_04"
+                        },
+                        {
+                            "time": 0.3333,
+                            "name": "s_fx_stars_05"
+                        },
+                        {
+                            "time": 0.4,
+                            "name": "s_fx_stars_06"
+                        },
+                        {
+                            "time": 0.4667,
+                            "name": "s_fx_stars_07"
+                        },
+                        {
+                            "time": 0.5333,
+                            "name": "s_fx_stars_08"
+                        },
+                        {
+                            "time": 0.6,
+                            "name": null
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

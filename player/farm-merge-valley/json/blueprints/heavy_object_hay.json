@@ -1,0 +1,1 @@
+{"id":"heavy_object_hay","extends":"base_heavy_object","components":{"sprite":{"alias":"obj_heavy_hayblocks","offset":{"x":-5,"y":-90},"hitArea":{"points":[{"x":-320,"y":0},{"x":0,"y":160},{"x":320,"y":0},{"x":0,"y":-160}]}},"heavyObject":{"customShareImage":"cs_help_obstruction_hay"},"hitpoints":{"max":3}}}

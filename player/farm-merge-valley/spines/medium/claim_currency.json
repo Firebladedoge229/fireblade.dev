@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "coin_UI_bling": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 37,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 77
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "disappear_particle": {
+      "frame": {
+        "x": 4,
+        "y": 89,
+        "w": 33,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "claim_currency.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 45,
+      "h": 126
+    },
+    "scale": 0.5538461538461539
+  }
+}

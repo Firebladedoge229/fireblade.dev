@@ -1,0 +1,1 @@
+{"id":"tomato_on_wheels","components":{"sprite":{"alias":"obj_prod_tomatoonwheels_broken","offset":{"x":9,"y":-118},"hitArea":{"points":[{"x":-320,"y":0},{"x":0,"y":160},{"x":320,"y":0},{"x":0,"y":-160}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"tomato_on_wheels"},"workshop":{}}}

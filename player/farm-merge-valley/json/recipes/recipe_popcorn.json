@@ -1,0 +1,1 @@
+{"ID":"recipe_popcorn","image":{"alias":"icon_recipes_popcorn"},"duration":600,"ingredients":[{"key":"corn","amount":11},{"key":"sunflower","amount":7}],"reward":["coin_4","coin_4"]}

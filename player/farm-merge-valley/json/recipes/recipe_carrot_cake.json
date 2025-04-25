@@ -1,0 +1,1 @@
+{"ID":"recipe_carrot_cake","image":{"alias":"icon_recipes_carrotcake"},"duration":900,"ingredients":[{"key":"carrot","amount":12},{"key":"wheat","amount":7},{"key":"egg","amount":7}],"reward":["coin_4","coin_4"]}

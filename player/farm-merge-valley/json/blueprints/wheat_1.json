@@ -1,0 +1,1 @@
+{"id":"wheat_1","extends":"base_crop","components":{"sprite":{"alias":"obj_crops_wheat_00","offset":{"x":-2,"y":-36}},"mergeable":{"target":"wheat_2","expReward":3}}}

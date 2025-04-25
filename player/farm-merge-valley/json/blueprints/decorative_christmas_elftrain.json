@@ -1,0 +1,1 @@
+{"id":"decorative_christmas_elftrain","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorative_christmas_elftrain","offset":{"x":20,"y":-125},"hitArea":{"points":[{"x":-10,"y":-10},{"x":10,"y":-10},{"x":10,"y":10},{"x":-10,"y":10}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"decorative_christmas_elftrain"},"workshop":{}}}

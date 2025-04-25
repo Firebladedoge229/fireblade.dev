@@ -1,0 +1,38 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tube Jumpers Unblocked - GNHUSTGames</title>
+    <meta name="description" content="Tube Jumpers Unblocked. Play Tube Jumpers For Free Unblocked Online on Chromebook, PC in Chrome and modern browsers.">
+    <meta property="og:image" content="https://gnhustgames.github.io/assets/imageGame/tubejumpers.png">
+    <link rel="icon" href="./img/icon128.png">
+    <link rel="stylesheet" href="https://gnhustgames.github.io/css/logo.css">
+    <script src="./UnityLoader.js"></script>
+    <script>
+        var gameInstance = UnityLoader.instantiate("gameContainer", "tube-jumpers.json");
+    </script>
+</head>
+
+<body style="margin: 0; overflow: hidden;">
+    <div class="logo-homepage" id="logo" style="position: absolute; bottom:40%"></div>
+
+    <script>
+        function checkScreenSize() {
+            var hiddenBlock = document.querySelector('#logo');
+            if (window.innerWidth > 1200) {
+                hiddenBlock.style.display = "block";
+            } else {
+                hiddenBlock.style.display = "none";
+            }
+        }
+
+        window.addEventListener('load', checkScreenSize);
+        window.addEventListener('resize', checkScreenSize);
+        checkScreenSize();
+    </script>
+
+    <div class="webgl-content">
+        <div id="gameContainer" style="width:100%; height: 100%; margin: 0;"></div>
+    </div>
+</body>
+</html>

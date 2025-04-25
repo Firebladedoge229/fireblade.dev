@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "icon_arrow_frame": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 119,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_arrow_back": {
+      "frame": {
+        "x": 4,
+        "y": 154,
+        "w": 100,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 124
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_arrow_filled": {
+      "frame": {
+        "x": 4,
+        "y": 286,
+        "w": 92,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_arrow_fill": {
+      "frame": {
+        "x": 4,
+        "y": 409,
+        "w": 90,
+        "h": 6
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 6
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 6
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "pickup_building.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 127,
+      "h": 419
+    },
+    "scale": 0.5538461538461539
+  }
+}

@@ -1,0 +1,1 @@
+{"id":"wool","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_wool"},"collectable":{"reward":[{"key":"wool","amount":1}]}}}

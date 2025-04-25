@@ -1,0 +1,1 @@
+{"id":"reward_crate_key_golden_pumpkin","extends":"base_reward_crate_key","components":{"crateRewardKey":{"tier":"goldenpumpkin"},"sprite":{"alias":"icon_key_golden_pumpkin","offset":{"x":15,"y":-15}}}}

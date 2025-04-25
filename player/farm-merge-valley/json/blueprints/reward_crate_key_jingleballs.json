@@ -1,0 +1,1 @@
+{"id":"reward_crate_key_jingleballs","extends":"base_reward_crate_key","components":{"crateRewardKey":{"tier":"christmas"},"sprite":{"alias":"icon_key_jingleball","offset":{"x":15,"y":-40}}}}

@@ -1,0 +1,255 @@
+{
+  "frames": {
+    "popup_eventheader_dailybonus": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 547,
+        "h": 385
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 547,
+        "h": 385
+      },
+      "sourceSize": {
+        "w": 547,
+        "h": 385
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_DB_day_end_current": {
+      "frame": {
+        "x": 559,
+        "y": 4,
+        "w": 127,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 127,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_DB_day_end_upcoming": {
+      "frame": {
+        "x": 694,
+        "y": 4,
+        "w": 127,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 127,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_DB_day_middle_current": {
+      "frame": {
+        "x": 829,
+        "y": 4,
+        "w": 122,
+        "h": 238
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 238
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_DB_day_middle_past": {
+      "frame": {
+        "x": 959,
+        "y": 4,
+        "w": 122,
+        "h": 238
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 238
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_DB_day_middle_upcoming": {
+      "frame": {
+        "x": 1089,
+        "y": 4,
+        "w": 122,
+        "h": 238
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 238
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_DB_day_start_current": {
+      "frame": {
+        "x": 1219,
+        "y": 4,
+        "w": 110,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_DB_day_start_past": {
+      "frame": {
+        "x": 829,
+        "y": 250,
+        "w": 110,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 239
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_DB_checkmark": {
+      "frame": {
+        "x": 559,
+        "y": 251,
+        "w": 58,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_eventheader_dailybonus_ornament": {
+      "frame": {
+        "x": 625,
+        "y": 251,
+        "w": 33,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "daily_bonus.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1333,
+      "h": 493
+    },
+    "scale": 0.5538461538461539
+  }
+}

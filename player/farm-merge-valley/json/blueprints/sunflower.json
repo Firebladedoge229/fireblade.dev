@@ -1,0 +1,1 @@
+{"id":"sunflower","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_sunflower"},"collectable":{"reward":[{"key":"sunflower","amount":1}]}}}

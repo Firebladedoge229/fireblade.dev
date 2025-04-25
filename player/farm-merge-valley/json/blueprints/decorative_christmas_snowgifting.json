@@ -1,0 +1,1 @@
+{"id":"decorative_christmas_snowgifting","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorative_christmas_snowgifting","offset":{"x":0,"y":-35},"hitArea":{"points":[{"x":-70,"y":-100},{"x":70,"y":-100},{"x":100,"y":50},{"x":-100,"y":50}]}},"clickable":{},"extendedTile":{"width":1,"height":1},"building":{"ID":"decorative_christmas_snowgifting"},"workshop":{}}}

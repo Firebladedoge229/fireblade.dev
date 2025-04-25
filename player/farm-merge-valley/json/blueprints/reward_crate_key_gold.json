@@ -1,0 +1,1 @@
+{"id":"reward_crate_key_gold","extends":"base_reward_crate_key","components":{"crateRewardKey":{"tier":"gold"},"sprite":{"alias":"icon_key_gold","offset":{"x":15,"y":-15}}}}

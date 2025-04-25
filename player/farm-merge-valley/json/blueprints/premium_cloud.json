@@ -1,0 +1,1 @@
+{"id":"premium_cloud","components":{"sprite":{"alias":"fog_premium","offset":{"x":0,"y":-10},"hitArea":{"points":[{"x":-160,"y":0},{"x":0,"y":80},{"x":160,"y":0},{"x":0,"y":-80}]}},"clickable":{},"areaLock":null}}

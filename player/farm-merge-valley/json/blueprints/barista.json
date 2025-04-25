@@ -1,0 +1,1 @@
+{"id":"barista","components":{"sprite":{"alias":"obj_prod_barista_broken","offset":{"x":-6,"y":-100},"hitArea":{"points":[{"x":-320,"y":0},{"x":0,"y":160},{"x":320,"y":0},{"x":0,"y":-160}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"barista"},"workshop":{}}}

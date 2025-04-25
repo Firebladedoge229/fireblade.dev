@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "icon_eventimage_christmasspecial": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 579,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 579,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 579,
+        "h": 331
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_eventheader_christmasspecials": {
+      "frame": {
+        "x": 591,
+        "y": 4,
+        "w": 548,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 548,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 548,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_fb_christmasspecial01": {
+      "frame": {
+        "x": 1147,
+        "y": 4,
+        "w": 268,
+        "h": 530
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 530
+      },
+      "sourceSize": {
+        "w": 268,
+        "h": 530
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_fb_christmasspecial02": {
+      "frame": {
+        "x": 591,
+        "y": 121,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_fb_christmasspecial03": {
+      "frame": {
+        "x": 856,
+        "y": 121,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_fb_christmasspecial04": {
+      "frame": {
+        "x": 591,
+        "y": 298,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_ms_cg_christmasspecial03": {
+      "frame": {
+        "x": 856,
+        "y": 298,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_ms_cg_christmasspecial04": {
+      "frame": {
+        "x": 4,
+        "y": 343,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "christmas_deals_HUD_icon_banner": {
+      "frame": {
+        "x": 269,
+        "y": 343,
+        "w": 183,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 183,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 183,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "christmas_deals_HUD_icon_percentage": {
+      "frame": {
+        "x": 460,
+        "y": 343,
+        "w": 76,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 77
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_ms_cg_christmasspecial01": {
+      "frame": {
+        "x": 1147,
+        "y": 4,
+        "w": 268,
+        "h": 530
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 530
+      },
+      "sourceSize": {
+        "w": 268,
+        "h": 530
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_marketplace_ms_cg_christmasspecial02": {
+      "frame": {
+        "x": 591,
+        "y": 121,
+        "w": 257,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "events_christmas_deals.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1419,
+      "h": 538
+    },
+    "scale": 0.5538461538461539
+  }
+}

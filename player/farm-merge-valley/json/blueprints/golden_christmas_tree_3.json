@@ -1,0 +1,1 @@
+{"id":"golden_christmas_tree_3","extends":"base_mergable","components":{"sprite":{"alias":"obj_crops_christmastree_02","offset":{"x":30,"y":-65}},"mergeable":{"target":"golden_christmas_tree_4","expReward":27},"gem":{},"currency":{}}}

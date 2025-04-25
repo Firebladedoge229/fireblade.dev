@@ -1,0 +1,1 @@
+{"id":"stone_5","extends":"base_mergable","components":{"sprite":{"alias":"obj_nature_brickpile_04","offset":{"x":0,"y":-6}},"mergeable":{"target":"stone_6","expReward":243},"mapResources":{"reward":{"key":"stone","amount":81},"split":{"target":"stone_4"}}}}

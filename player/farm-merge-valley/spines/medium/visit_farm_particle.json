@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "icon_balloon_waterdrops": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 30,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 47
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "visit_farm_particle.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 38,
+      "h": 55
+    },
+    "scale": 0.5538461538461539
+  }
+}

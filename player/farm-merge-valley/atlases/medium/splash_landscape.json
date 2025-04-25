@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "bg_loading_landscape": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 1152,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1152,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1152,
+        "h": 648
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "copy_logos_landscape": {
+      "frame": {
+        "x": 1164,
+        "y": 4,
+        "w": 747,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 747,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 747,
+        "h": 40
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "logo_fmv_landscape": {
+      "frame": {
+        "x": 1164,
+        "y": 52,
+        "w": 264,
+        "h": 287
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 287
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "splash_landscape.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1915,
+      "h": 656
+    },
+    "scale": 0.5538461538461539
+  }
+}

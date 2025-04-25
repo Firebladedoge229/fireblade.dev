@@ -1,0 +1,1 @@
+{"ID":"recipe_stuffed_tomatoes","image":{"alias":"icon_recipes_tomatofilled"},"duration":600,"ingredients":[{"key":"tomato","amount":12},{"key":"milk","amount":3}],"reward":["coin_3","coin_3"]}

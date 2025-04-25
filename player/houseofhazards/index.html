@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>House of Hazards</title>
+<link rel="stylesheet" href="gameloader2020.css" />
+<script src="gameloader2020.js"></script>
+<script src="cloakGame.js"></script>
+<script src="gameloader-helper.js"></script>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<script type="text/javascript">
+  var options = {
+    author: "Fireblade",
+    logo: "logo.png",
+    gameName: "House of Hazards",
+    gameNameEu: "House of Hazards",
+    gameUrl: "0",
+    moreLink: ("#"),
+    allowFullscreen: true,
+    locale: "en_US",
+    loader: "unity2020",
+    loaderOptions: {
+      unityLoaderUrl: "Build/CrazyGames_HOH.loader.js",
+      unityConfigOptions: {
+        dataUrl: "Build/ce88e405d6019148944e5bf9bb4fa866.data.br",
+        frameworkUrl: "Build/f0b056ff7352f3b7c207b8ca6fc8e9bc.js.br",
+        codeUrl: "Build/164c23d2ee4d2b65b53729d9ada20441.wasm.br",
+        streamingAssetsUrl: "StreamingAssets"
+      }
+    },
+    };
+  GameInit.load(options);   
+</script>
+</body>
+</html>

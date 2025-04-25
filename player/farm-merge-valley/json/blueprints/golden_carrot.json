@@ -1,0 +1,1 @@
+{"id":"golden_carrot","extends":"base_golden_item","components":{"goldenItem":{"type":"goldencarrot"},"sprite":{"alias":"icon_event_goldencarrot","offset":{"x":0,"y":-40}}}}

@@ -1,0 +1,1 @@
+{"id":"decorative_haywagon","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorateive_haywagon_broken","offset":{"x":-14,"y":-126},"hitArea":{"points":[{"x":-320,"y":180},{"x":0,"y":340},{"x":320,"y":180},{"x":0,"y":20}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"decorative_haywagon"},"workshop":{}}}

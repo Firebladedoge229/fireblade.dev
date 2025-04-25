@@ -1,0 +1,1 @@
+{"id":"greenhouse_4","extends":"base_mergable","components":{"sprite":{"alias":"obj_greenhouse_03","offset":{"x":0,"y":-15}},"mergeable":{"target":"greenhouse_5","expReward":81}}}

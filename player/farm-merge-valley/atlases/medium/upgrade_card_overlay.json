@@ -1,0 +1,471 @@
+{
+  "frames": {
+    "bg_upgradecard_01": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_02": {
+      "frame": {
+        "x": 4,
+        "y": 462,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_03": {
+      "frame": {
+        "x": 4,
+        "y": 920,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_animal_chicken_03": {
+      "frame": {
+        "x": 4,
+        "y": 1378,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_animal_cow_03": {
+      "frame": {
+        "x": 329,
+        "y": 4,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_animal_deer_03": {
+      "frame": {
+        "x": 654,
+        "y": 4,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_animal_goat_03": {
+      "frame": {
+        "x": 979,
+        "y": 4,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_animal_pig_03": {
+      "frame": {
+        "x": 1304,
+        "y": 4,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_animal_sheep_03": {
+      "frame": {
+        "x": 1629,
+        "y": 4,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_animal_trufflepig_03": {
+      "frame": {
+        "x": 329,
+        "y": 462,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_avocado_03": {
+      "frame": {
+        "x": 329,
+        "y": 920,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_carrot_03": {
+      "frame": {
+        "x": 329,
+        "y": 1378,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_coffee_03": {
+      "frame": {
+        "x": 654,
+        "y": 462,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_corn_03": {
+      "frame": {
+        "x": 654,
+        "y": 920,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_soybeans_03": {
+      "frame": {
+        "x": 654,
+        "y": 1378,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_sugarcane_03": {
+      "frame": {
+        "x": 979,
+        "y": 462,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_sunflower_03": {
+      "frame": {
+        "x": 1304,
+        "y": 462,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_tomato_03": {
+      "frame": {
+        "x": 1629,
+        "y": 462,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bg_upgradecard_crops_wheat_03": {
+      "frame": {
+        "x": 979,
+        "y": 920,
+        "w": 317,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "upgrade_card_overlay.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1950,
+      "h": 1832
+    },
+    "scale": 0.5538461538461539
+  }
+}

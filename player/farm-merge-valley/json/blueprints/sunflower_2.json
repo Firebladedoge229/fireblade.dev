@@ -1,0 +1,1 @@
+{"id":"sunflower_2","extends":"base_crop","components":{"sounds":{"reveal":{"alias":"spawn_crop_2"}},"sprite":{"alias":"obj_crops_sunflower_01","offset":{"x":-3,"y":-42}},"mergeable":{"target":"sunflower_3","expReward":9}}}

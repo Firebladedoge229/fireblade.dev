@@ -1,0 +1,1 @@
+{"id":"soybeans","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_soybean"},"collectable":{"reward":[{"key":"soybeans","amount":1}]}}}

@@ -1,0 +1,1 @@
+{"id":"decorative_feedingtrough","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorateive_feedingtrough_broken","offset":{"x":-3,"y":-13},"hitArea":{"points":[{"x":-160,"y":0},{"x":0,"y":80},{"x":160,"y":0},{"x":0,"y":-80}]}},"clickable":{},"extendedTile":{"width":1,"height":1},"building":{"ID":"decorative_feedingtrough"},"workshop":{}}}

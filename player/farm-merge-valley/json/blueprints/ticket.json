@@ -1,0 +1,1 @@
+{"id":"ticket","components":{"ticketAnimation":{},"clickable":{},"sprite":{"alias":"icon_train_ticket","offset":{"x":0,"y":-25}},"collectable":{"reward":[{"key":"tickets","amount":1}]}}}

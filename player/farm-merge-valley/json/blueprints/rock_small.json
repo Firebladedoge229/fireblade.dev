@@ -1,0 +1,1 @@
+{"id":"rock_small","extends":"base_rock","components":{"sprite":{"alias":"obj_nature_rock_small","offset":{"x":9,"y":-16}},"mapSource":{"steps":{"1":{"cost":5,"duration":30,"rewards":["stone_1","stone_1"]},"2":{"cost":10,"duration":60,"rewards":["stone_1","stone_1","stone_1","stone_1"]},"3":{"cost":15,"duration":180,"rewards":["stone_2","stone_1","stone_1","stone_1"]}}}}}

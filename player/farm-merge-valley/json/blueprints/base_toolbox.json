@@ -1,0 +1,1 @@
+{"id":"base_toolbox","extends":"base_equipment_object","components":{"source":{"sourceFor":["tools"]},"hitpointsPreview":{},"mapSource":{"type":"toolbox"},"shovelable":{}}}

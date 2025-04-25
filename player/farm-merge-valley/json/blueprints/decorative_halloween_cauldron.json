@@ -1,0 +1,1 @@
+{"id":"decorative_halloween_cauldron","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorative_halloween_cauldron","offset":{"x":16,"y":-160},"hitArea":{"points":[{"x":-336,"y":80},{"x":-16,"y":240},{"x":304,"y":80},{"x":-16,"y":-80}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"decorative_halloween_cauldron"},"workshop":{}}}

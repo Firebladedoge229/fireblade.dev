@@ -1,0 +1,447 @@
+{
+  "frames": {
+    "icon_popup_upgradecards_explanation": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 595,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 595,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 595,
+        "h": 429
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_chests_and_keys_explanation": {
+      "frame": {
+        "x": 607,
+        "y": 4,
+        "w": 595,
+        "h": 394
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 595,
+        "h": 394
+      },
+      "sourceSize": {
+        "w": 595,
+        "h": 394
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_decoration_explanation": {
+      "frame": {
+        "x": 1210,
+        "y": 4,
+        "w": 595,
+        "h": 394
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 595,
+        "h": 394
+      },
+      "sourceSize": {
+        "w": 595,
+        "h": 394
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "finger_down": {
+      "frame": {
+        "x": 1813,
+        "y": 4,
+        "w": 230,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 249
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding01": {
+      "frame": {
+        "x": 1813,
+        "y": 261,
+        "w": 227,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 306
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_flowers_explanation": {
+      "frame": {
+        "x": 607,
+        "y": 406,
+        "w": 595,
+        "h": 394
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 595,
+        "h": 394
+      },
+      "sourceSize": {
+        "w": 595,
+        "h": 394
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_regeneration_explanation": {
+      "frame": {
+        "x": 4,
+        "y": 441,
+        "w": 534,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 534,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 534,
+        "h": 233
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_popup_merge_explanation": {
+      "frame": {
+        "x": 4,
+        "y": 682,
+        "w": 484,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 484,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 484,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "arrow_handdirection_vertical": {
+      "frame": {
+        "x": 496,
+        "y": 682,
+        "w": 80,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 117
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "hand_onboarding": {
+      "frame": {
+        "x": 1210,
+        "y": 406,
+        "w": 193,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 193,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_character_npc_2": {
+      "frame": {
+        "x": 1411,
+        "y": 406,
+        "w": 137,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 137,
+        "h": 137
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_character_npc_1": {
+      "frame": {
+        "x": 1556,
+        "y": 406,
+        "w": 128,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 143
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "arrow_handdirection_diagonal": {
+      "frame": {
+        "x": 1411,
+        "y": 551,
+        "w": 120,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 63
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding02": {
+      "frame": {
+        "x": 1813,
+        "y": 261,
+        "w": 227,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 306
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding03": {
+      "frame": {
+        "x": 1813,
+        "y": 261,
+        "w": 227,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 306
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding04": {
+      "frame": {
+        "x": 1813,
+        "y": 261,
+        "w": 227,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 306
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding05": {
+      "frame": {
+        "x": 1813,
+        "y": 261,
+        "w": 227,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 306
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_characters_onboarding06": {
+      "frame": {
+        "x": 1813,
+        "y": 261,
+        "w": 227,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 306
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "onboarding.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2047,
+      "h": 863
+    },
+    "scale": 0.5538461538461539
+  }
+}

@@ -1,0 +1,1 @@
+{"ID":"recipe_grilled_sandwich","image":{"alias":"icon_recipes_grilledsandwich"},"duration":420,"ingredients":[{"key":"wheat","amount":7},{"key":"bacon","amount":8},{"key":"egg","amount":5}],"reward":["coin_4","coin_4"]}

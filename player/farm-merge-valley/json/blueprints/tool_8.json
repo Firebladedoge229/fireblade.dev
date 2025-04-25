@@ -1,0 +1,1 @@
+{"id":"tool_8","extends":"base_mergable","components":{"tool":{},"sprite":{"alias":"obj_tools_08","offset":{"x":0,"y":0}},"mergeable":{"target":"tool_9","expReward":6561},"mapResources":{"reward":{"key":"tools","amount":1}}}}

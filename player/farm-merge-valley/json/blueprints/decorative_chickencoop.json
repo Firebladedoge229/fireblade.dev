@@ -1,0 +1,1 @@
+{"id":"decorative_chickencoop","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorateive_chickencoop_broken","offset":{"x":0,"y":-40},"hitArea":{"points":[{"x":-160,"y":0},{"x":0,"y":80},{"x":160,"y":0},{"x":0,"y":-80}]}},"clickable":{},"extendedTile":{"width":1,"height":1},"building":{"ID":"decorative_chickencoop"},"workshop":{}}}

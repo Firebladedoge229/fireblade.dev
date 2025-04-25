@@ -1,0 +1,338 @@
+{
+	"skeleton": {
+		"hash": "cs/c/2K3QBoqdj8N2dZjFuOCDAE",
+		"spine": "3.8.99",
+		"x": -18.32,
+		"y": -6.49,
+		"width": 44,
+		"height": 127.05,
+		"images": "./images/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "butterflies",
+			"parent": "root"
+		},
+		{
+			"name": "butterfly_complete",
+			"parent": "butterflies",
+			"x": -1.57,
+			"y": -10.45
+		},
+		{
+			"name": "butterfly",
+			"parent": "butterfly_complete",
+			"x": 5.25,
+			"y": 109.01
+		},
+		{
+			"name": "butterfly_shadow",
+			"parent": "butterfly_complete",
+			"x": 1.11,
+			"y": 9.96
+		}
+	],
+	"slots": [
+		{
+			"name": "butterfly_01",
+			"bone": "butterfly",
+			"attachment": "butterfly_01"
+		},
+		{
+			"name": "butterfly_shadow",
+			"bone": "butterfly_shadow",
+			"attachment": "butterfly_shadow"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"butterfly_01": {
+					"butterfly_01": {
+						"width": 44,
+						"height": 44
+					},
+					"butterfly_02": {
+						"width": 44,
+						"height": 44
+					},
+					"butterfly_03": {
+						"width": 44,
+						"height": 44
+					}
+				},
+				"butterfly_shadow": {
+					"butterfly_shadow": {
+						"x": 0.5,
+						"y": 0.5,
+						"width": 33,
+						"height": 13
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"ascend": {
+			"slots": {
+				"butterfly_01": {
+					"attachment": [
+						{
+							"name": "butterfly_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.1333,
+							"name": "butterfly_03"
+						},
+						{
+							"time": 0.2,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "butterfly_01"
+						},
+						{
+							"time": 0.3333,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.4,
+							"name": "butterfly_03"
+						},
+						{
+							"time": 0.4667,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.5333,
+							"name": "butterfly_01"
+						}
+					]
+				}
+			},
+			"bones": {
+				"butterfly": {
+					"translate": [
+						{
+							"y": -81.47
+						},
+						{
+							"time": 0.5333
+						}
+					]
+				},
+				"butterfly_shadow": {
+					"scale": [
+						{
+							"x": 0,
+							"y": 0.2
+						},
+						{
+							"time": 0.5333
+						}
+					]
+				}
+			}
+		},
+		"descend": {
+			"slots": {
+				"butterfly_01": {
+					"attachment": [
+						{
+							"name": "butterfly_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.1333,
+							"name": "butterfly_03"
+						},
+						{
+							"time": 0.2,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "butterfly_01"
+						},
+						{
+							"time": 0.3333,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.4,
+							"name": "butterfly_03"
+						},
+						{
+							"time": 0.4667,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.5333,
+							"name": "butterfly_01"
+						},
+						{
+							"time": 0.6,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.6667,
+							"name": "butterfly_03"
+						},
+						{
+							"time": 0.7333,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.8,
+							"name": "butterfly_01"
+						},
+						{
+							"time": 0.8667,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.9333,
+							"name": "butterfly_03"
+						},
+						{
+							"time": 1,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 1.0667,
+							"name": "butterfly_01"
+						},
+						{
+							"time": 1.1333,
+							"name": "butterfly_02"
+						}
+					]
+				}
+			},
+			"bones": {
+				"butterfly": {
+					"translate": [
+						{
+							"curve": 0.25,
+							"c3": 0.75
+						},
+						{
+							"time": 1.0667,
+							"y": -81.47
+						}
+					]
+				},
+				"butterfly_shadow": {
+					"scale": [
+						{},
+						{
+							"time": 1.0667,
+							"x": 0,
+							"y": 0.2
+						}
+					]
+				}
+			}
+		},
+		"fly": {
+			"slots": {
+				"butterfly_01": {
+					"attachment": [
+						{
+							"name": "butterfly_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.1333,
+							"name": "butterfly_03"
+						},
+						{
+							"time": 0.2,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "butterfly_01"
+						}
+					]
+				}
+			}
+		},
+		"idle": {
+			"slots": {
+				"butterfly_01": {
+					"attachment": [
+						{
+							"name": "butterfly_01"
+						},
+						{
+							"time": 0.1333,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.2,
+							"name": "butterfly_03"
+						},
+						{
+							"time": 0.6667,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 0.7333,
+							"name": "butterfly_01"
+						},
+						{
+							"time": 2.4333,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 2.5,
+							"name": "butterfly_03"
+						},
+						{
+							"time": 3.9333,
+							"name": "butterfly_02"
+						},
+						{
+							"time": 4,
+							"name": "butterfly_01"
+						}
+					]
+				}
+			},
+			"bones": {
+				"butterfly": {
+					"translate": [
+						{
+							"y": -81.47
+						}
+					]
+				},
+				"butterfly_shadow": {
+					"scale": [
+						{
+							"x": 0,
+							"y": 0.2
+						}
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,1 @@
+{"id":"coin_3","extends":"base_mergable","components":{"sprite":{"alias":"obj_valuables_coins_02","offset":{"x":3,"y":-29}},"mergeable":{"target":"coin_4","expReward":27},"collectable":{"reward":[{"key":"coins","amount":9}]},"coin":{},"currency":{}}}

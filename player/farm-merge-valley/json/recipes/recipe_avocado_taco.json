@@ -1,0 +1,1 @@
+{"ID":"recipe_avocado_taco","image":{"alias":"icon_recipes_avocadotaco"},"duration":180,"ingredients":[{"key":"avocado","amount":10},{"key":"tomato","amount":3}],"reward":["coin_3"]}

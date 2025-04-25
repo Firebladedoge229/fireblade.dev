@@ -1,0 +1,1 @@
+{"id":"reward_crate_key_silver","extends":"base_reward_crate_key","components":{"crateRewardKey":{"tier":"silver"},"sprite":{"alias":"icon_key_silver","offset":{"x":15,"y":-15}},"mergeable":{"target":"reward_crate_key_gold","expReward":9}}}

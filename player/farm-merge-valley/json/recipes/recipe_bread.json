@@ -1,0 +1,1 @@
+{"ID":"recipe_bread","image":{"alias":"icon_recipes_bread"},"duration":180,"ingredients":[{"key":"wheat","amount":5}],"reward":["coin_3"]}

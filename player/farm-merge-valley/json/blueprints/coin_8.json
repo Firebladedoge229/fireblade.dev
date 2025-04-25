@@ -1,0 +1,1 @@
+{"id":"coin_8","extends":"base_mergable","components":{"sprite":{"alias":"obj_valuables_coins_07","offset":{"x":1,"y":-44}},"collectable":{"reward":[{"key":"coins","amount":2187}]},"coin":{},"currency":{}}}

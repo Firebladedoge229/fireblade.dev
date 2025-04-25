@@ -1,0 +1,423 @@
+{
+  "frames": {
+    "obj_decorateive_barn_repair": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 723,
+        "h": 611
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 723,
+        "h": 611
+      },
+      "sourceSize": {
+        "w": 723,
+        "h": 611
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_fountain_unlock": {
+      "frame": {
+        "x": 735,
+        "y": 4,
+        "w": 721,
+        "h": 409
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 721,
+        "h": 409
+      },
+      "sourceSize": {
+        "w": 721,
+        "h": 409
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_watertower_repair": {
+      "frame": {
+        "x": 1464,
+        "y": 4,
+        "w": 539,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 539,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 539,
+        "h": 640
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_fountain_repair": {
+      "frame": {
+        "x": 735,
+        "y": 421,
+        "w": 721,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 721,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 721,
+        "h": 405
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_barn_unlock": {
+      "frame": {
+        "x": 4,
+        "y": 623,
+        "w": 714,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 714,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 714,
+        "h": 630
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_haywagon_repair": {
+      "frame": {
+        "x": 1464,
+        "y": 652,
+        "w": 455,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 455,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 455,
+        "h": 295
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_picknicktable_repair": {
+      "frame": {
+        "x": 726,
+        "y": 834,
+        "w": 708,
+        "h": 490
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 708,
+        "h": 490
+      },
+      "sourceSize": {
+        "w": 708,
+        "h": 490
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_picknicktable_unlock": {
+      "frame": {
+        "x": 4,
+        "y": 1261,
+        "w": 707,
+        "h": 490
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 707,
+        "h": 490
+      },
+      "sourceSize": {
+        "w": 707,
+        "h": 490
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_well_unlock": {
+      "frame": {
+        "x": 4,
+        "y": 1759,
+        "w": 333,
+        "h": 281
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 333,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 333,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_windmill_repair": {
+      "frame": {
+        "x": 1442,
+        "y": 955,
+        "w": 590,
+        "h": 541
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 590,
+        "h": 541
+      },
+      "sourceSize": {
+        "w": 590,
+        "h": 541
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_farmhouse_repair": {
+      "frame": {
+        "x": 719,
+        "y": 1332,
+        "w": 699,
+        "h": 518
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 699,
+        "h": 518
+      },
+      "sourceSize": {
+        "w": 699,
+        "h": 518
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_birdshouse_repair": {
+      "frame": {
+        "x": 719,
+        "y": 1858,
+        "w": 307,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 307,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 307,
+        "h": 178
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_stoneflowerpot_repair": {
+      "frame": {
+        "x": 1034,
+        "y": 1858,
+        "w": 310,
+        "h": 175
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 310,
+        "h": 175
+      },
+      "sourceSize": {
+        "w": 310,
+        "h": 175
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_feedingtrough_repair": {
+      "frame": {
+        "x": 1352,
+        "y": 1858,
+        "w": 306,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 306,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_lamp_post_repair": {
+      "frame": {
+        "x": 1426,
+        "y": 1504,
+        "w": 349,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 349,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 349,
+        "h": 322
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_well_repair": {
+      "frame": {
+        "x": 1666,
+        "y": 1834,
+        "w": 284,
+        "h": 209
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 284,
+        "h": 209
+      },
+      "sourceSize": {
+        "w": 284,
+        "h": 209
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "obj_decorateive_chickencoop_repair": {
+      "frame": {
+        "x": 345,
+        "y": 1759,
+        "w": 337,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 337,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 337,
+        "h": 249
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "repair_decorations-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2036,
+      "h": 2047
+    },
+    "scale": 0.5538461538461539
+  }
+}

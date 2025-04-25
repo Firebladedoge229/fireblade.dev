@@ -1,0 +1,1 @@
+{"id":"pig_1","extends":"base_animal","components":{"sounds":{"reveal":{"alias":"crate_reveal_pig"}},"sprite":{"alias":"obj_animal_pig_00","offset":{"x":2,"y":-28}},"mergeable":{"target":"pig_2","expReward":3}}}

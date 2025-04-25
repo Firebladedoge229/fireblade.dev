@@ -1,0 +1,1 @@
+{"id":"gem_5","extends":"base_mergable","components":{"sprite":{"alias":"obj_valuables_gems_04","offset":{"x":8,"y":-30}},"mergeable":{"target":"gem_6","expReward":243},"collectable":{"reward":[{"key":"gems","amount":81}]},"gem":{},"currency":{}}}

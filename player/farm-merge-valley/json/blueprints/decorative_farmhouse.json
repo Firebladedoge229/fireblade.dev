@@ -1,0 +1,1 @@
+{"id":"decorative_farmhouse","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorateive_farmhouse_broken","offset":{"x":-5,"y":-173},"hitArea":{"points":[{"x":-320,"y":180},{"x":0,"y":340},{"x":320,"y":180},{"x":0,"y":20}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"decorative_farmhouse"},"workshop":{}}}

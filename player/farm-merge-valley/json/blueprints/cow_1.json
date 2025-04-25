@@ -1,0 +1,1 @@
+{"id":"cow_1","extends":"base_animal","components":{"sounds":{"reveal":{"alias":"crate_reveal_cow"}},"sprite":{"alias":"obj_animal_cow_00","offset":{"x":0,"y":-35}},"mergeable":{"target":"cow_2","expReward":3}}}

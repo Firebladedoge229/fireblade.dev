@@ -1,0 +1,1 @@
+{"id":"base_tree","extends":"base_nature_object","components":{"source":{"sourceFor":["wood"]},"hitpointsPreview":{},"mapSource":{"type":"tree"}}}

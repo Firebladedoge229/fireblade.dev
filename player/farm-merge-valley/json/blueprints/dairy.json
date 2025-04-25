@@ -1,0 +1,1 @@
+{"id":"dairy","components":{"sprite":{"alias":"obj_prod_dairyfactory_broken","offset":{"x":0,"y":-100},"hitArea":{"points":[{"x":-320,"y":0},{"x":0,"y":160},{"x":320,"y":0},{"x":0,"y":-160}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"dairy"},"workshop":{}}}

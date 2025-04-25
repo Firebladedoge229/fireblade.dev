@@ -1,0 +1,1 @@
+{"id":"goatmilk","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_goat_milk"},"collectable":{"reward":[{"key":"goatmilk","amount":1}]}}}

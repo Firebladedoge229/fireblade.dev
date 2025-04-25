@@ -1,0 +1,232 @@
+{
+	"skeleton": {
+		"hash": "tLwnLQpsTHZO02TZBfSwqt4sKXE",
+		"spine": "3.8.99",
+		"x": -795,
+		"y": -209.78,
+		"width": 1589,
+		"height": 1589,
+		"images": "./images/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "level_up_reward_light_beam_loop",
+			"x": 48.74
+		},
+		{
+			"name": "rank_level",
+			"parent": "level_up_reward_light_beam_loop",
+			"x": -45.87,
+			"y": 587.74
+		},
+		{
+			"name": "btn_rank_level_beam_01",
+			"parent": "rank_level",
+			"x": -2.87,
+			"y": -11.44
+		},
+		{
+			"name": "btn_rank_level_beam_02",
+			"parent": "rank_level",
+			"x": -2.87,
+			"y": -11.44
+		},
+		{
+			"name": "btn_rank_level_beam_03",
+			"parent": "rank_level",
+			"x": -2.87,
+			"y": -11.44
+		},
+		{
+			"name": "btn_rank_level_beam_04",
+			"parent": "rank_level",
+			"x": -2.87,
+			"y": -11.44
+		}
+	],
+	"slots": [
+		{
+			"name": "btn_rank_level_beam_04",
+			"bone": "btn_rank_level_beam_04",
+			"attachment": "btn_rank_level_beam_04"
+		},
+		{
+			"name": "btn_rank_level_beam_01",
+			"bone": "btn_rank_level_beam_01",
+			"attachment": "btn_rank_level_beam_01"
+		},
+		{
+			"name": "btn_rank_level_beam_02",
+			"bone": "btn_rank_level_beam_02",
+			"attachment": "btn_rank_level_beam_02"
+		},
+		{
+			"name": "btn_rank_level_beam_03",
+			"bone": "btn_rank_level_beam_03",
+			"attachment": "btn_rank_level_beam_03"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"btn_rank_level_beam_01": {
+					"btn_rank_level_beam_01": {
+						"x": -0.5,
+						"y": 8.42,
+						"width": 1589,
+						"height": 1589
+					}
+				},
+				"btn_rank_level_beam_02": {
+					"btn_rank_level_beam_02": {
+						"x": -2,
+						"y": 11.42,
+						"width": 895,
+						"height": 899
+					}
+				},
+				"btn_rank_level_beam_03": {
+					"btn_rank_level_beam_03": {
+						"x": -0.5,
+						"y": 7.92,
+						"width": 1434,
+						"height": 1432
+					}
+				},
+				"btn_rank_level_beam_04": {
+					"btn_rank_level_beam_04": {
+						"x": 10.31,
+						"y": 24.76,
+						"width": 1170,
+						"height": 1139
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"level_up_reward_light_beam_loop": {
+			"slots": {
+				"btn_rank_level_beam_01": {
+					"color": [
+						{
+							"color": "ffffff4f"
+						},
+						{
+							"time": 0.8333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 1.6667,
+							"color": "ffffff4f"
+						}
+					]
+				},
+				"btn_rank_level_beam_02": {
+					"color": [
+						{
+							"color": "ffffff4f"
+						},
+						{
+							"time": 0.8333,
+							"color": "ffffff82"
+						},
+						{
+							"time": 1.6667,
+							"color": "ffffff4f"
+						}
+					]
+				},
+				"btn_rank_level_beam_03": {
+					"color": [
+						{
+							"color": "ffffff28"
+						},
+						{
+							"time": 0.8,
+							"color": "ffffffff"
+						},
+						{
+							"time": 1.6667,
+							"color": "ffffff28"
+						}
+					]
+				},
+				"btn_rank_level_beam_04": {
+					"color": [
+						{
+							"color": "ffffff4f"
+						},
+						{
+							"time": 0.8333,
+							"color": "ffffffd9"
+						},
+						{
+							"time": 1.6667,
+							"color": "ffffff4f"
+						}
+					]
+				}
+			},
+			"bones": {
+				"level_up_reward_light_beam_loop": {
+					"translate": [
+						{}
+					],
+					"scale": [
+						{}
+					]
+				},
+				"rank_level": {
+					"translate": [
+						{}
+					],
+					"scale": [
+						{}
+					]
+				},
+				"btn_rank_level_beam_01": {
+					"rotate": [
+						{
+							"angle": 90
+						},
+						{
+							"time": 1.6667
+						}
+					]
+				},
+				"btn_rank_level_beam_02": {
+					"rotate": [
+						{
+							"angle": 180
+						},
+						{
+							"time": 1.6667
+						}
+					]
+				},
+				"btn_rank_level_beam_03": {
+					"rotate": [
+						{
+							"angle": 126
+						},
+						{
+							"time": 1.6667,
+							"angle": 36
+						}
+					]
+				},
+				"btn_rank_level_beam_04": {
+					"translate": [
+						{
+							"x": -5.42,
+							"y": -13.55
+						}
+					]
+				}
+			}
+		}
+	}
+}

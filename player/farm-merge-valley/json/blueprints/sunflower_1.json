@@ -1,0 +1,1 @@
+{"id":"sunflower_1","extends":"base_crop","components":{"sprite":{"alias":"obj_crops_sunflower_00","offset":{"x":0,"y":-27}},"mergeable":{"target":"sunflower_2","expReward":3}}}

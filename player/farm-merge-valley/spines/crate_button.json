@@ -1,0 +1,236 @@
+{
+"skeleton": { "hash": "zsI4ECSuCOcidPdckQ6EGcxYQ6U", "spine": "3.8.99", "x": -138, "y": -147, "width": 276, "height": 294 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "btn_crates", "parent": "root" },
+	{ "name": "crate", "parent": "root", "x": -5.78, "y": 26.79 },
+	{ "name": "glow", "parent": "root" },
+	{ "name": "background", "parent": "root" },
+	{ "name": "preview", "parent": "root", "x": -1096.38 }
+],
+"slots": [
+	{ "name": "glow", "bone": "glow", "attachment": "glow" },
+	{ "name": "btn_cratespawn_idle", "bone": "btn_crates", "dark": "000000", "attachment": "btn_cratespawn_idle" },
+	{ "name": "btn_cratespawn_active", "bone": "btn_crates", "attachment": "btn_cratespawn_white" },
+	{ "name": "icon_btn_crate_spawn", "bone": "crate", "attachment": "icon_btn_crate_spawn" },
+	{ "name": "icon_btn_crate_spawn_glow", "bone": "crate", "color": "ffffff00", "attachment": "icon_btn_crate_spawn_glow" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"btn_cratespawn_active": {
+				"btn_cratespawn_active": { "width": 276, "height": 294 },
+				"btn_cratespawn_white": { "width": 276, "height": 294 }
+			},
+			"btn_cratespawn_idle": {
+				"btn_cratespawn_idle": { "width": 276, "height": 294 }
+			},
+			"glow": {
+				"glow": { "width": 174, "height": 174 }
+			},
+			"icon_btn_crate_spawn": {
+				"icon_btn_crate_spawn": { "x": 5.78, "y": -14.97, "width": 206, "height": 232 }
+			},
+			"icon_btn_crate_spawn_glow": {
+				"icon_btn_crate_spawn_glow": { "x": 5.56, "y": -15.13, "width": 206, "height": 232 }
+			}
+		}
+	}
+],
+"animations": {
+	"crate_press": {
+		"slots": {
+			"btn_cratespawn_active": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.231 },
+					{ "time": 0.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "btn_cratespawn_active" },
+					{ "time": 0.1333, "name": "btn_cratespawn_active" }
+				]
+			},
+			"icon_btn_crate_spawn_glow": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff85" },
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"glow": {
+				"scale": [
+					{ "x": 1.577, "y": 1.577 },
+					{ "time": 0.1667, "x": 2.2, "y": 2.2 }
+				]
+			},
+			"crate": {
+				"scale": [
+					{ "time": 0.0333, "curve": 0.32, "c2": 0.29, "c3": 0.655, "c4": 0.62 },
+					{ "time": 0.2, "x": 1.06, "y": 1.06 }
+				]
+			},
+			"btn_crates": {
+				"scale": [
+					{ "curve": 0.32, "c2": 0.29, "c3": 0.655, "c4": 0.62 },
+					{ "time": 0.1667, "x": 1.06, "y": 1.06 }
+				]
+			}
+		}
+	},
+	"crate_release": {
+		"slots": {
+			"btn_cratespawn_active": {
+				"color": [
+					{ "color": "ffffffff", "curve": 0.86, "c3": 0.75 },
+					{ "time": 0.0667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "btn_cratespawn_active" }
+				]
+			},
+			"icon_btn_crate_spawn_glow": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"glow": {
+				"scale": [
+					{ "x": 2.2, "y": 2.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667 }
+				]
+			},
+			"crate": {
+				"scale": [
+					{ "x": 1.06, "y": 1.06, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.2333 }
+				]
+			},
+			"btn_crates": {
+				"scale": [
+					{ "x": 1.06, "y": 1.06, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.1667 }
+				]
+			}
+		}
+	},
+	"crate_wobble": {
+		"slots": {
+			"btn_cratespawn_active": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 0.7667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "btn_cratespawn_white" }
+				]
+			},
+			"btn_cratespawn_idle": {
+				"attachment": [
+					{ "name": "btn_cratespawn_idle" }
+				]
+			},
+			"glow": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"crate": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.0333, "curve": 0.57, "c2": 0.31, "c3": 0.892, "c4": 0.7 },
+					{ "time": 0.2, "y": -31.04, "curve": 0.665, "c2": 0.32, "c4": 0.76 },
+					{ "time": 0.3333, "y": 72.66, "curve": 0.044, "c2": 0.42, "c3": 0.75 },
+					{ "time": 0.4667, "y": 79.3, "curve": 0.044, "c2": 0.42, "c3": 0.75 },
+					{ "time": 0.5667, "y": 72.66, "curve": 0.044, "c2": 0.42, "c3": 0.75 },
+					{ "time": 0.6667, "y": -34, "curve": 0.956, "c2": 0.02, "c3": 0.57, "c4": 0.86 },
+					{ "time": 0.7667 }
+				],
+				"scale": [
+					{ "time": 0.0333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "x": 1.16, "y": 0.8, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.2667, "x": 0.765, "y": 1.055, "curve": 1 },
+					{ "time": 0.3333, "x": 1.06, "y": 1.06, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.4667, "x": 1.1, "y": 1.1, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.5667, "x": 1.06, "y": 1.06, "curve": 0.704, "c2": 0.21, "c4": 0.8 },
+					{
+						"time": 0.6667,
+						"x": 1.155,
+						"y": 0.785,
+						"curve": 0.113,
+						"c2": 0.52,
+						"c3": 0.335,
+						"c4": 0.96
+					},
+					{ "time": 0.7667 }
+				]
+			},
+			"btn_crates": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9, "curve": 0.324, "c3": 0.657, "c4": 0.34 },
+					{ "time": 0.3333, "curve": "stepped" },
+					{ "time": 0.6, "curve": 0.33, "c2": 0.31, "c3": 0.663, "c4": 0.64 },
+					{
+						"time": 0.6667,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": 0.33,
+						"c2": 0.31,
+						"c3": 0.663,
+						"c4": 0.65
+					},
+					{ "time": 0.7667 }
+				]
+			}
+		}
+	},
+	"crates_added": {
+		"slots": {
+			"btn_cratespawn_active": {
+				"color": [
+					{ "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "btn_cratespawn_active" }
+				]
+			},
+			"glow": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"icon_btn_crate_spawn_glow": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.172, "c2": 0.56, "c3": 0.75 },
+					{ "time": 0.2333, "color": "ffffff4c", "curve": 0.335, "c3": 0.972, "c4": 0.72 },
+					{ "time": 0.4667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"crate": {
+				"scale": [
+					{ "curve": 0, "c2": 0.8, "c3": 0.426, "c4": 0.91 },
+					{ "time": 0.2333, "x": 1.3, "y": 1.3, "curve": 0.823, "c2": 0.06, "c4": 0.78 },
+					{ "time": 0.4667 }
+				]
+			},
+			"btn_crates": {
+				"translate": [
+					{ "x": -1, "y": -1 }
+				]
+			}
+		}
+	}
+}
+}

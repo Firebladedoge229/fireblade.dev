@@ -1,0 +1,217 @@
+{
+"skeleton": { "hash": "KWm3xA//WwKxfk1XP5JJKg9XFOw", "spine": "3.8.99", "x": -166.8, "y": -147.6, "width": 333.6, "height": 295.2 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "hand", "parent": "root", "scaleX": 0.8, "scaleY": 0.8 },
+	{ "name": "finger_up", "parent": "hand" },
+	{ "name": "finger_up_shadow", "parent": "finger_up" },
+	{ "name": "finger_down", "parent": "hand" },
+	{ "name": "finger_down_shadow", "parent": "finger_down" }
+],
+"slots": [
+	{ "name": "finger_up_shadow", "bone": "finger_up_shadow", "color": "ffffff2f", "attachment": "finger_up_glove" },
+	{ "name": "finger_down_shadow", "bone": "finger_down_shadow", "color": "ffffff2f", "attachment": "finger_down_glove" },
+	{ "name": "finger_up", "bone": "finger_up", "attachment": "finger_up_glove" },
+	{ "name": "finger_down", "bone": "finger_down", "attachment": "finger_down_glove" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"finger_down": {
+				"finger_down_glove": { "width": 278, "height": 246 }
+			},
+			"finger_down_shadow": {
+				"finger_down_glove": { "color": "000000ff", "width": 278, "height": 246 }
+			},
+			"finger_up": {
+				"finger_up_glove": { "width": 278, "height": 246 }
+			},
+			"finger_up_shadow": {
+				"finger_up_glove": { "color": "000000ff", "width": 278, "height": 246 }
+			}
+		}
+	}
+],
+"animations": {
+	"hand_appear": {
+		"slots": {
+			"finger_down": {
+				"color": [
+					{ "time": 0.8, "color": "ffffff00" },
+					{ "time": 1.2333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"finger_down_shadow": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"finger_up": {
+				"color": [
+					{ "time": 0.8, "color": "ffffff00" },
+					{ "time": 1.2333, "color": "ffffffff" }
+				]
+			},
+			"finger_up_shadow": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.0333, "color": "ffffff00" },
+					{ "time": 1.2333, "color": "ffffff2f" }
+				]
+			}
+		},
+		"bones": {
+			"hand": {
+				"translate": [
+					{ "time": 1.6667 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.8, "x": 0, "y": 0, "curve": 0.25, "c3": 0.53, "c4": 1.9 },
+					{ "time": 1.1333, "x": 1.25, "y": 1.25 }
+				]
+			}
+		}
+	},
+	"hand_disappear": {
+		"slots": {
+			"finger_down": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"finger_down_shadow": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"finger_up": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"finger_up_shadow": {
+				"color": [
+					{ "color": "ffffff2f" },
+					{ "time": 0.1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"hand": {
+				"scale": [
+					{ "x": 1.25, "y": 1.25, "curve": 0.25, "c3": 0.394, "c4": 1.04 },
+					{ "time": 0.3333, "x": 0.125, "y": 0.125 }
+				]
+			},
+			"root": {
+				"scale": [
+					{ "time": 1.3333 }
+				]
+			}
+		}
+	},
+	"not_point_finger": {
+		"slots": {
+			"finger_down": {
+				"attachment": [
+					{ "name": "finger_down_glove" },
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"finger_down_shadow": {
+				"attachment": [
+					{ "name": "finger_down_glove" },
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"finger_up": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "finger_up_glove" }
+				]
+			},
+			"finger_up_shadow": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "finger_up_glove" }
+				]
+			}
+		}
+	},
+	"point_finger": {
+		"slots": {
+			"finger_down": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "finger_down_glove" }
+				]
+			},
+			"finger_down_shadow": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "finger_down_glove" }
+				]
+			},
+			"finger_up": {
+				"attachment": [
+					{ "name": "finger_up_glove" },
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"finger_up_shadow": {
+				"attachment": [
+					{ "name": "finger_up_glove" },
+					{ "time": 0.0333, "name": null }
+				]
+			}
+		}
+	},
+	"static_not_pointing_finger": {
+		"slots": {
+			"finger_down": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"finger_down_shadow": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"finger_up": {
+				"attachment": [
+					{ "name": "finger_up_glove" }
+				]
+			},
+			"finger_up_shadow": {
+				"attachment": [
+					{ "name": "finger_up_glove" }
+				]
+			}
+		}
+	},
+	"static_pointing_finger": {
+		"slots": {
+			"finger_up": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"finger_up_shadow": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

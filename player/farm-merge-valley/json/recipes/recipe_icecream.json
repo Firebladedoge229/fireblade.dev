@@ -1,0 +1,1 @@
+{"ID":"recipe_icecream","image":{"alias":"icon_recipes_icecreamcone"},"duration":600,"ingredients":[{"key":"milk","amount":5},{"key":"sugarcane","amount":7}],"reward":["coin_4"]}

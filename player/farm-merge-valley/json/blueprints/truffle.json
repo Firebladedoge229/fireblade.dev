@@ -1,0 +1,1 @@
+{"id":"truffle","extends":"base_ingredient","components":{"sprite":{"alias":"icon_recipes_truffle"},"collectable":{"reward":[{"key":"truffle","amount":1}]}}}

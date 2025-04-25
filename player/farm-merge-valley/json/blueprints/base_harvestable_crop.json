@@ -1,0 +1,1 @@
+{"id":"base_harvestable_crop","extends":"base_crop","components":{"harvestable":{"harvestableType":"crop"}}}

@@ -1,0 +1,1 @@
+{"ID":"recipe_carrot_bread","image":{"alias":"icon_recipes_carrotbread"},"duration":600,"ingredients":[{"key":"carrot","amount":8},{"key":"wheat","amount":7}],"reward":["coin_4"]}

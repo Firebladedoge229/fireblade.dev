@@ -1,0 +1,1 @@
+{"id":"base_rock","extends":"base_nature_object","components":{"source":{"sourceFor":["stone"]},"hitpointsPreview":{},"mapSource":{"type":"rock"}}}

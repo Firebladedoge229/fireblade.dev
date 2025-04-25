@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "popup_greenhouse_introductionary": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 602,
+        "h": 850
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 602,
+        "h": 850
+      },
+      "sourceSize": {
+        "w": 602,
+        "h": 850
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "greenhouse_merge_chain_intro.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 610,
+      "h": 858
+    },
+    "scale": 0.5538461538461539
+  }
+}

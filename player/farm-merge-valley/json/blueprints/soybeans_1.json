@@ -1,0 +1,1 @@
+{"id":"soybeans_1","extends":"base_crop","components":{"sprite":{"alias":"obj_crops_soybean_00","offset":{"x":7,"y":-17}},"mergeable":{"target":"soybeans_2","expReward":3}}}

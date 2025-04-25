@@ -1,0 +1,1 @@
+{"id":"heavy_object_traktor","extends":"base_heavy_object","components":{"sprite":{"alias":"obj_heavy_tractor","offset":{"x":-6,"y":-84},"hitArea":{"points":[{"x":-320,"y":0},{"x":0,"y":160},{"x":320,"y":0},{"x":0,"y":-160}]}},"heavyObject":{"customShareImage":"cs_help_obstruction_tractor"},"hitpoints":{"max":5}}}

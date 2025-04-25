@@ -1,0 +1,1 @@
+{"id":"soybeans_2","extends":"base_crop","components":{"sounds":{"reveal":{"alias":"spawn_crop_2"}},"sprite":{"alias":"obj_crops_soybean_01","offset":{"x":9,"y":-33}},"mergeable":{"target":"soybeans_3","expReward":9}}}

@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "hK7tFTj2WrfGHZm+eaES9/K5pGQ",
+	"spine": "3.8.99",
+	"x": -44.09,
+	"y": -40.91,
+	"width": 89.32,
+	"height": 98.66,
+	"images": "./images/",
+	"audio": "/Users/remcobakker/Desktop/preview_order/production"
+},
+"bones": [
+	{ "name": "hourglass", "scaleX": 0.6666, "scaleY": 0.6666 },
+	{ "name": "hourglas", "parent": "hourglass", "x": 0.86, "y": 12.63 },
+	{ "name": "hourglass2", "parent": "hourglas" },
+	{ "name": "hourglass3", "parent": "hourglas" }
+],
+"slots": [
+	{ "name": "icon_balloon_hourglass3", "bone": "hourglass3", "attachment": "icon_balloon_hourglass" },
+	{ "name": "icon_balloon_hourglass2", "bone": "hourglass2", "attachment": "icon_balloon_hourglass" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"icon_balloon_hourglass2": {
+				"icon_balloon_hourglass": { "rotation": 180, "width": 134, "height": 148 }
+			},
+			"icon_balloon_hourglass3": {
+				"icon_balloon_hourglass": { "width": 134, "height": 148 }
+			}
+		}
+	}
+],
+"animations": {
+	"hourglass_appear": {
+		"slots": {
+			"icon_balloon_hourglass2": {
+				"color": [
+					{ "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "icon_balloon_hourglass" }
+				]
+			},
+			"icon_balloon_hourglass3": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"hourglas": {
+				"scale": [
+					{ "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 1.2, "y": 1.2 },
+					{ "time": 0.3 }
+				]
+			}
+		}
+	},
+	"hourglass_disappear": {
+		"slots": {
+			"icon_balloon_hourglass3": {
+				"color": [
+					{ "time": 0.1, "color": "ffffffff" },
+					{ "time": 0.3, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"hourglas": {
+				"scale": [
+					{},
+					{ "time": 0.1, "x": 1.2, "y": 1.2 },
+					{ "time": 0.3, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"hourglass_rotate": {
+		"slots": {
+			"icon_balloon_hourglass2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			},
+			"icon_balloon_hourglass3": {
+				"color": [
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.5333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"hourglas": {
+				"rotate": [
+					{},
+					{ "time": 0.5333, "angle": 180, "curve": "stepped" },
+					{ "time": 3.2, "angle": 180 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,1 @@
+{"id":"decorative_windmill","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorateive_windmill_broken","offset":{"x":0,"y":-225},"hitArea":{"points":[{"x":-320,"y":180},{"x":0,"y":340},{"x":320,"y":180},{"x":0,"y":20}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"decorative_windmill"}}}

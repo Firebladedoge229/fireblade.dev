@@ -1,0 +1,1 @@
+{"id":"delivery_cargo","components":{"sprite":{"alias":"obj_social_crate","offset":{"x":50,"y":-90},"hitArea":{"points":[{"x":-160,"y":0},{"x":-160,"y":80},{"x":-60,"y":120},{"x":160,"y":10},{"x":160,"y":-50},{"x":60,"y":-120}]}},"clickable":{},"extendedTile":{"width":1,"height":2}}}

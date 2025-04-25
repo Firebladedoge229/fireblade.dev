@@ -1,0 +1,1 @@
+{"id":"chicken_2","extends":"base_animal","components":{"sounds":{"reveal":{"alias":"spawn_chicken_2"}},"sprite":{"alias":"obj_animal_chicken_01","offset":{"x":6,"y":-57}},"mergeable":{"target":"chicken_3","expReward":9}}}

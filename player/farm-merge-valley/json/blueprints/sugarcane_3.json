@@ -1,0 +1,1 @@
+{"id":"sugarcane_3","extends":"base_crop","components":{"sounds":{"reveal":{"alias":"spawn_crop_3"}},"sprite":{"alias":"obj_crops_sugarcane_02","offset":{"x":2,"y":-49}},"mergeable":{"target":"sugarcane_4","expReward":27}}}

@@ -1,0 +1,1 @@
+{"id":"tree_onboarding","extends":"base_tree","components":{"sprite":{"alias":"obj_nature_tree_onboarding","offset":{"x":29,"y":-62}},"mapSource":{"steps":{"1":{"cost":5,"duration":3,"rewards":["wood_onboarding","wood_onboarding"]}}}}}

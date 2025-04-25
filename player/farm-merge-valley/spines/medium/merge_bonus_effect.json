@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "Merge_5_Floter": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 1,
+        "h": 1
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      },
+      "sourceSize": {
+        "w": 1,
+        "h": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "merge_bonus_effect.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 9,
+      "h": 9
+    },
+    "scale": 0.5538461538461539
+  }
+}

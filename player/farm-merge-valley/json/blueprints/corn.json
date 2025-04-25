@@ -1,0 +1,1 @@
+{"id":"corn","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_corn"},"collectable":{"reward":[{"key":"corn","amount":1}]}}}

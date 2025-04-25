@@ -1,0 +1,1 @@
+{"id":"base_crop","extends":"base_mergable","components":{"crop":{},"sounds":{"reveal":{"alias":"crate_reveal_grops"}}}}

@@ -1,0 +1,1 @@
+{"id":"crate_1","components":{"clickable":{},"sprite":{"alias":"obj_delivery_crate","offset":{"x":22,"y":-33}},"collectable":{"reward":[{"key":"crates","amount":20}]}}}

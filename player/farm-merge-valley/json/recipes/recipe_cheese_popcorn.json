@@ -1,0 +1,1 @@
+{"ID":"recipe_cheese_popcorn","image":{"alias":"icon_recipes_cheesepopcorn"},"duration":1200,"ingredients":[{"key":"corn","amount":13},{"key":"sunflower","amount":9},{"key":"milk","amount":7}],"reward":["coin_5"]}

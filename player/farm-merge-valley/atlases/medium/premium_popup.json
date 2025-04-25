@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "icon_premiumland_promopic": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 549,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 549,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 549,
+        "h": 258
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_premiumland_header": {
+      "frame": {
+        "x": 561,
+        "y": 4,
+        "w": 353,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 353,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_premiumland_specialoffer_rays": {
+      "frame": {
+        "x": 922,
+        "y": 4,
+        "w": 219,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 219,
+        "h": 219
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_premiumland_specialoffer": {
+      "frame": {
+        "x": 561,
+        "y": 81,
+        "w": 94,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "premium_popup.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1145,
+      "h": 266
+    },
+    "scale": 0.5538461538461539
+  }
+}

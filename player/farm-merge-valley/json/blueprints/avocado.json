@@ -1,0 +1,1 @@
+{"id":"avocado","extends":"base_ingredient","components":{"sprite":{"alias":"icon_recipes_avocado"},"collectable":{"reward":[{"key":"avocado","amount":1}]}}}

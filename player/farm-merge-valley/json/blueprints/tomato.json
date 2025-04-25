@@ -1,0 +1,1 @@
+{"id":"tomato","extends":"base_ingredient","components":{"sprite":{"alias":"icon_recipes_tomato"},"collectable":{"reward":[{"key":"tomato","amount":1}]}}}

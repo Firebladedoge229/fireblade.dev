@@ -1,0 +1,1 @@
+{"id":"decorative_christmas_elfmail","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorative_christmas_elfmail","offset":{"x":0,"y":-38},"hitArea":{"points":[{"x":-100,"y":-70},{"x":100,"y":-70},{"x":100,"y":50},{"x":-100,"y":50}]}},"clickable":{},"extendedTile":{"width":1,"height":1},"building":{"ID":"decorative_christmas_elfmail"},"workshop":{}}}

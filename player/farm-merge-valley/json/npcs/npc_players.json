@@ -1,0 +1,1 @@
+[{"jsonID":"NPC_1","localizationKey":{"alias":"npc_name_1"},"photo":{"alias":"icon_character_npc_1"},"repeatable":true},{"jsonID":"NPC_2","localizationKey":{"alias":"npc_name_2"},"photo":{"alias":"icon_character_npc_2"},"visitableFromLevel":12,"repeatable":false}]

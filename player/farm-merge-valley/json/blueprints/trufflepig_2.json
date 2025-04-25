@@ -1,0 +1,1 @@
+{"id":"trufflepig_2","extends":"base_animal","components":{"sounds":{"reveal":{"alias":"spawn_pig_2"}},"sprite":{"alias":"obj_animal_trufflepig_01","offset":{"x":-11,"y":-41}},"mergeable":{"target":"trufflepig_3","expReward":9}}}

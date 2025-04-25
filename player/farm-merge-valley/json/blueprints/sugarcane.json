@@ -1,0 +1,1 @@
+{"id":"sugarcane","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_sugarcane"},"collectable":{"reward":[{"key":"sugarcane","amount":1}]}}}

@@ -1,0 +1,1 @@
+{"id":"goat_1","extends":"base_animal","components":{"sounds":{"reveal":{"alias":"crate_reveal_goat"}},"sprite":{"alias":"obj_animal_goat_00","offset":{"x":-11,"y":-36}},"mergeable":{"target":"goat_2","expReward":3}}}

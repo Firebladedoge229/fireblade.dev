@@ -1,0 +1,1 @@
+{"id":"wood_4","extends":"base_mergable","components":{"sprite":{"alias":"obj_nature_wood_pile_03","offset":{"x":0,"y":-25}},"mergeable":{"target":"wood_5","expReward":81},"mapResources":{"reward":{"key":"wood","amount":27},"split":{"target":"wood_3"}}}}

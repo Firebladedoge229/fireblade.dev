@@ -1,0 +1,231 @@
+{
+  "frames": {
+    "rain_streaks01": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 567,
+        "h": 1602
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 567,
+        "h": 1602
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 1602
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_train01": {
+      "frame": {
+        "x": 4,
+        "y": 1614,
+        "w": 467,
+        "h": 206
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 467,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 467,
+        "h": 206
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_train02": {
+      "frame": {
+        "x": 4,
+        "y": 1828,
+        "w": 467,
+        "h": 206
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 467,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 467,
+        "h": 206
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_train03": {
+      "frame": {
+        "x": 479,
+        "y": 1614,
+        "w": 467,
+        "h": 206
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 467,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 467,
+        "h": 206
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_streaks02": {
+      "frame": {
+        "x": 579,
+        "y": 4,
+        "w": 567,
+        "h": 1602
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 567,
+        "h": 1602
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 1602
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_streaks03": {
+      "frame": {
+        "x": 1154,
+        "y": 4,
+        "w": 567,
+        "h": 1602
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 567,
+        "h": 1602
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 1602
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_01": {
+      "frame": {
+        "x": 1729,
+        "y": 4,
+        "w": 235,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 235,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 235,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_02": {
+      "frame": {
+        "x": 1729,
+        "y": 88,
+        "w": 235,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 235,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 235,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "rain_spatter_03": {
+      "frame": {
+        "x": 1729,
+        "y": 172,
+        "w": 235,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 235,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 235,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "rain.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1968,
+      "h": 2038
+    },
+    "scale": 0.5538461538461539
+  }
+}

@@ -1,0 +1,1 @@
+{"id":"avocado_1","extends":"base_crop","components":{"sprite":{"alias":"obj_crops_avocado_00","offset":{"x":0,"y":-40}},"mergeable":{"target":"avocado_2","expReward":3}}}

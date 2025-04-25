@@ -1,0 +1,268 @@
+{
+	"skeleton": {
+		"hash": "b8e5Sv3VGD1XygCzyywmgZPelJE",
+		"spine": "3.8.99",
+		"x": -106.97,
+		"y": -223.82,
+		"width": 1603.81,
+		"height": 638.71,
+		"images": "./images/",
+		"audio": "/Users/gerrit/Google Drive/Farm_Merge/03_ANIMATIONS/preview_pickupbuilding_arrow"
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "ARROW",
+			"parent": "root",
+			"y": 271.65
+		},
+		{
+			"name": "icon_arrow_back",
+			"parent": "ARROW",
+			"y": 16.64
+		},
+		{
+			"name": "icon_arrow_fill",
+			"parent": "ARROW",
+			"x": 0.03,
+			"y": -90.92
+		},
+		{
+			"name": "icon_arrow_filled",
+			"parent": "ARROW",
+			"x": 0.03,
+			"y": 14.89
+		},
+		{
+			"name": "icon_arrow_frame",
+			"parent": "ARROW",
+			"x": 0.03,
+			"y": 15.23
+		}
+	],
+	"slots": [
+		{
+			"name": "icon_arrow_back",
+			"bone": "icon_arrow_back",
+			"attachment": "icon_arrow_back"
+		},
+		{
+			"name": "icon_arrow_filled",
+			"bone": "icon_arrow_filled",
+			"attachment": "icon_arrow_filled"
+		},
+		{
+			"name": "icon_arrow_frame",
+			"bone": "icon_arrow_frame",
+			"attachment": "icon_arrow_frame"
+		},
+		{
+			"name": "icon_arrow_fill_mask",
+			"bone": "ARROW",
+			"attachment": "icon_arrow_fill_mask"
+		},
+		{
+			"name": "icon_arrow_fill",
+			"bone": "icon_arrow_fill",
+			"attachment": "icon_arrow_fill"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"icon_arrow_back": {
+					"icon_arrow_back": {
+						"width": 180,
+						"height": 224
+					}
+				},
+				"icon_arrow_fill": {
+					"icon_arrow_fill": {
+						"y": 5.19,
+						"width": 162,
+						"height": 10
+					}
+				},
+				"icon_arrow_fill_mask": {
+					"icon_arrow_fill_mask": {
+						"type": "clipping",
+						"end": "icon_arrow_fill_mask",
+						"vertexCount": 22,
+						"vertices": [
+							10.93,
+							109.3,
+							4.14,
+							115,
+							-3.84,
+							114.93,
+							-11.28,
+							109.61,
+							-74.28,
+							27.72,
+							-78.07,
+							19.68,
+							-75.81,
+							10.47,
+							-70.1,
+							6.69,
+							-43.94,
+							6.7,
+							-41.03,
+							3.57,
+							-40.85,
+							-73.65,
+							-37.1,
+							-81.15,
+							-30.01,
+							-83.86,
+							32.2,
+							-83.86,
+							38.18,
+							-81.53,
+							41.13,
+							-75.25,
+							40.81,
+							4.18,
+							43,
+							7.73,
+							69.52,
+							7.05,
+							76.29,
+							10.27,
+							79.52,
+							16.64,
+							77.18,
+							26.83
+						],
+						"color": "ce3a3aff"
+					}
+				},
+				"icon_arrow_filled": {
+					"icon_arrow_filled": {
+						"width": 166,
+						"height": 208
+					}
+				},
+				"icon_arrow_frame": {
+					"icon_arrow_frame": {
+						"width": 214,
+						"height": 256
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"arrow_in": {
+			"slots": {
+				"icon_arrow_filled": {
+					"attachment": [
+						{
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"ARROW": {
+					"translate": [
+						{
+							"y": -271.65
+						}
+					],
+					"scale": [
+						{
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.1667,
+							"x": 1.2,
+							"y": 1.2
+						},
+						{
+							"time": 0.2333
+						}
+					]
+				},
+				"icon_arrow_fill": {
+					"scale": [
+						{
+							"y": 0
+						}
+					]
+				}
+			}
+		},
+		"arrow_out": {
+			"slots": {
+				"icon_arrow_fill": {
+					"attachment": [
+						{
+							"time": 0.0667,
+							"name": null
+						}
+					]
+				},
+				"icon_arrow_filled": {
+					"attachment": [
+						{
+							"name": "icon_arrow_filled"
+						}
+					]
+				}
+			},
+			"bones": {
+				"ARROW": {
+					"translate": [
+						{
+							"y": -271.65,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.2333,
+							"y": -271.65
+						},
+						{
+							"time": 0.3,
+							"y": 24.72
+						},
+						{
+							"time": 0.4,
+							"y": 367.14
+						}
+					],
+					"scale": [
+						{},
+						{
+							"time": 0.0667,
+							"x": 1.2,
+							"y": 1.2
+						},
+						{
+							"time": 0.1333,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.3
+						},
+						{
+							"time": 0.4,
+							"x": 0
+						}
+					]
+				},
+				"icon_arrow_fill": {
+					"scale": [
+						{
+							"y": 21.139
+						}
+					]
+				}
+			}
+		}
+	}
+}

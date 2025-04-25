@@ -1,0 +1,1 @@
+{"id":"delivery_truck","components":{"sprite":{"alias":"obj_social_locomotive","offset":{"x":210,"y":-170},"hitArea":{"points":[{"x":-320,"y":200},{"x":-260,"y":20},{"x":220,"y":-230},{"x":360,"y":-100},{"x":-260,"y":240}]}},"clickable":{},"extendedTile":{"width":1,"height":4},"deliveryTruck":{"animation":{"offset":{"x":-200,"y":-10}}}}}

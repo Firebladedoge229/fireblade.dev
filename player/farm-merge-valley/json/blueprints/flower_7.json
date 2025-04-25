@@ -1,0 +1,1 @@
+{"id":"flower_7","extends":"base_mergable","components":{"sprite":{"alias":"obj_flowers_06","offset":{"x":-50,"y":-37}},"flower":{},"decorative":{}}}

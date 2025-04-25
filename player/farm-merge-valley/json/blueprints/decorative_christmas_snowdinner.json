@@ -1,0 +1,1 @@
+{"id":"decorative_christmas_snowdinner","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorative_christmas_snowdinner","offset":{"x":10,"y":-145},"hitArea":{"points":[{"x":-10,"y":-10},{"x":10,"y":-10},{"x":10,"y":10},{"x":-10,"y":10}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"decorative_christmas_snowdinner"},"workshop":{}}}

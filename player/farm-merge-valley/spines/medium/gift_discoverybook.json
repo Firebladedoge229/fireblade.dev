@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "gift_open": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 88,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_lid": {
+      "frame": {
+        "x": 100,
+        "y": 4,
+        "w": 75,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 39
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_box": {
+      "frame": {
+        "x": 183,
+        "y": 4,
+        "w": 65,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 45
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_bow": {
+      "frame": {
+        "x": 100,
+        "y": 51,
+        "w": 59,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 37
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "gift_discoverybook.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 252,
+      "h": 118
+    },
+    "scale": 0.5538461538461539
+  }
+}

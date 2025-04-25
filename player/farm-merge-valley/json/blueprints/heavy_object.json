@@ -1,0 +1,1 @@
+{"id":"heavy_object","extends":"base_heavy_object","components":{"sprite":{"alias":"obj_heavy_tractorwheel","pivot":{"x":0,"y":0}},"hitpoints":{"max":5}}}

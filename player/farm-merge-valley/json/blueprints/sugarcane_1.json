@@ -1,0 +1,1 @@
+{"id":"sugarcane_1","extends":"base_crop","components":{"sprite":{"alias":"obj_crops_sugarcane_00","offset":{"x":-2,"y":-29}},"mergeable":{"target":"sugarcane_2","expReward":3}}}

@@ -1,0 +1,1 @@
+{"id":"upgrade_card_1","extends":"base_mergable","components":{"sprite":{"alias":"obj_upgradecard_bg01","offset":{"x":0,"y":-36}},"upgradeCard":{"sellForLoot":["gem_3","gem_1"]},"mergeable":{"target":"upgrade_card_2","expReward":3}}}

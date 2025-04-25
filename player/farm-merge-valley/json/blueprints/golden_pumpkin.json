@@ -1,0 +1,1 @@
+{"id":"golden_pumpkin","extends":"base_golden_item","components":{"goldenItem":{"type":"goldenpumpkin"},"sprite":{"alias":"icon_event_goldenpumpkin","offset":{"x":4,"y":-40}}}}

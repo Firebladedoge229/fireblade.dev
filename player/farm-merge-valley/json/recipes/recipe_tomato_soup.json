@@ -1,0 +1,1 @@
+{"ID":"recipe_tomato_soup","image":{"alias":"icon_recipes_tomatosoup"},"duration":600,"ingredients":[{"key":"tomato","amount":20},{"key":"carrot","amount":5}],"reward":["coin_4"]}

@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "popup_invite_crate": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 56,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 65
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_invite_crate_glow": {
+      "frame": {
+        "x": 4,
+        "y": 77,
+        "w": 56,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 65
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "crates_added_ui.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 64,
+      "h": 146
+    },
+    "scale": 0.5538461538461539
+  }
+}

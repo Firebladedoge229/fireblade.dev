@@ -1,0 +1,1 @@
+{"id":"sapling_2","extends":"base_mergable","components":{"sprite":{"alias":"obj_sapling_01","offset":{"x":0,"y":-10}},"mergeable":{"target":"sapling_3","expReward":9},"coin":{},"currency":{}}}

@@ -1,0 +1,1 @@
+{"id":"decorative_halloween_hauntedhouse","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorative_halloween_hauntedhouse","offset":{"x":0,"y":-220},"hitArea":{"points":[{"x":-160,"y":0},{"x":0,"y":80},{"x":160,"y":0},{"x":0,"y":-80}]}},"clickable":{},"extendedTile":{"width":2,"height":2},"building":{"ID":"decorative_halloween_hauntedhouse"},"workshop":{}}}

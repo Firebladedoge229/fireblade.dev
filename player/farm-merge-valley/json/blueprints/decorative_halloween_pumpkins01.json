@@ -1,0 +1,1 @@
+{"id":"decorative_halloween_pumpkins01","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorative_halloween_pumpkins01","offset":{"x":10,"y":-45},"hitArea":{"points":[{"x":-170,"y":45},{"x":-10,"y":125},{"x":170,"y":45},{"x":-10,"y":-35}]}},"clickable":{},"extendedTile":{"width":1,"height":1},"building":{"ID":"decorative_halloween_pumpkins01"},"workshop":{}}}

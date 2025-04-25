@@ -1,0 +1,1 @@
+{"id":"coffee_1","extends":"base_crop","components":{"sprite":{"alias":"obj_crops_coffee_00","offset":{"x":3,"y":-20}},"mergeable":{"target":"coffee_2","expReward":3}}}

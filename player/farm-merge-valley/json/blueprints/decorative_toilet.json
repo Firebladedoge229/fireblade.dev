@@ -1,0 +1,1 @@
+{"id":"decorative_toilet","extends":"base_decorative","components":{"sprite":{"alias":"obj_decorateive_toilet_cabin_broken","offset":{"x":0,"y":-25},"hitArea":{"points":[{"x":-160,"y":0},{"x":0,"y":80},{"x":160,"y":0},{"x":0,"y":-80}]}},"clickable":{},"extendedTile":{"width":1,"height":1},"building":{"ID":"decorative_toilet"}}}

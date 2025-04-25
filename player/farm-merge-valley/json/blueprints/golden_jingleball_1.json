@@ -1,0 +1,1 @@
+{"id":"golden_jingleball_1","extends":"base_golden_item","components":{"goldenItem":{"type":"christmas"},"sprite":{"alias":"icon_event_jingleball01","offset":{"x":0,"y":-40}}}}

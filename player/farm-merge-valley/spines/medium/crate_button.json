@@ -1,0 +1,135 @@
+{
+  "frames": {
+    "btn_cratespawn_active": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 153,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 163
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_cratespawn_idle": {
+      "frame": {
+        "x": 4,
+        "y": 175,
+        "w": 153,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 163
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_cratespawn_white": {
+      "frame": {
+        "x": 4,
+        "y": 346,
+        "w": 153,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 163
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "icon_btn_crate_spawn_glow": {
+      "frame": {
+        "x": 4,
+        "y": 517,
+        "w": 114,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 114,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "glow": {
+      "frame": {
+        "x": 4,
+        "y": 653,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "crate_button.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 161,
+      "h": 753
+    },
+    "scale": 0.5538461538461539
+  }
+}

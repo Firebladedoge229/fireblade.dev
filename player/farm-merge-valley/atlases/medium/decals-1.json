@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "top_background": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 1108,
+        "h": 932
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1108,
+        "h": 932
+      },
+      "sourceSize": {
+        "w": 1108,
+        "h": 932
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bottom_treeline_right": {
+      "frame": {
+        "x": 1120,
+        "y": 4,
+        "w": 720,
+        "h": 376
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 720,
+        "h": 376
+      },
+      "sourceSize": {
+        "w": 720,
+        "h": 376
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "decorative_03": {
+      "frame": {
+        "x": 1120,
+        "y": 388,
+        "w": 363,
+        "h": 500
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 363,
+        "h": 500
+      },
+      "sourceSize": {
+        "w": 363,
+        "h": 500
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "decals-1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1844,
+      "h": 940
+    },
+    "scale": 0.5538461538461539
+  }
+}

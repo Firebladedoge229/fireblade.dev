@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Getaway Shootout</title>
+<link rel="stylesheet" href="gameloader2020.css" />
+<script src="gameloader2020.js"></script>
+<script src="cloakGame.js"></script>
+<script src="gameloader-helper.js"></script>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<script type="text/javascript">
+  var options = {
+    author: "Fireblade",
+    logo: "logo.png",
+    gameName: "Getaway Shootout",
+    gameNameEu: "Getaway Shootout",
+    gameUrl: "41246",
+    moreLink: ("#"),
+    allowFullscreen: true,
+    locale: "en_US",
+    loader: "unity2020",
+    loaderOptions: {
+      unityLoaderUrl: "Build/GS_Crazygames_v1.2.3.loader.js",
+      unityConfigOptions: {
+        dataUrl: "Build/864872d3e8c17c58e54028c101dae7a5.data.br",
+        frameworkUrl: "Build/dbc6f14bf976310a49dda5b1237392f2.js.br",
+        codeUrl: "Build/c0f8b2f06ae4c7c89b1e883b3d07ca8f.wasm.br",
+        streamingAssetsUrl: "StreamingAssets"
+      }
+    },
+    };
+  GameInit.load(options);   
+</script>
+</body>
+</html>
