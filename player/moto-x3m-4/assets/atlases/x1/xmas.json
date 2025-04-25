@@ -1,0 +1,19 @@
+{"frames": {
+"tile_stone_xmas0000":
+{
+	"frame": {"x":0,"y":0,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "xmas.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dae1f2e9461396dc4bc0dbb2ac36ddd1:106b360fcbf86618c210ecab05077e0f:aac9ca4c44e6f7ad982cca9aab77b096$"
+}
+}

@@ -14,26 +14,34 @@ const gameMap = {
   "moto-x3m": "Moto X3M",
   "colortris": "Tetris",
   "msdos": "MS-DOS",
-  "8-ball": "8 Ball"
+  "8-ball": "8 Ball",
+  "subway-surfers": "Subway Surfers",
+  "moto-x3m": "Moto X3M",
+  "moto-x3m-2": "Moto X3M 2",
+  "moto-x3m-3": "Moto X3M 3",
+  "moto-x3m-4": "Moto X3M 4",
+  "moto-x3m-5": "Moto X3M 5"
 };
 
 const gameGrid = document.getElementById("games");
 
-Object.entries(gameMap).forEach(([folder, displayName]) => {
-  const card = document.createElement("a");
-  card.className = "game-card";
-  card.href = `${folder}`;
+Object.entries(gameMap)
+  .sort((a, b) => a[1].localeCompare(b[1]))
+  .forEach(([folder, displayName]) => {
+    const card = document.createElement("a");
+    card.className = "game-card";
+    card.href = `${folder}`;
 
-  const img = document.createElement("img");
-  img.className = "thumbnail";
-  img.src = `${folder}/thumbnail.png`;
-  img.alt = `${displayName} thumbnail`;
+    const img = document.createElement("img");
+    img.className = "thumbnail";
+    img.src = `${folder}/thumbnail.png`;
+    img.alt = `${displayName} thumbnail`;
 
-  const title = document.createElement("div");
-  title.className = "game-title";
-  title.textContent = displayName;
+    const title = document.createElement("div");
+    title.className = "game-title";
+    title.textContent = displayName;
 
-  card.appendChild(img);
-  card.appendChild(title);
-  gameGrid.appendChild(card);
-});
+    card.appendChild(img);
+    card.appendChild(title);
+    gameGrid.appendChild(card);
+  });
