@@ -242,45 +242,12 @@
             }
             ,
             t.checkIsLocalhost = async function() {
-                if (["http://localhost:4000/gameframe-unity56-standalone/", "http://localhost:4000/gameframe-unity56/", "http://localhost:4000/gameframe-standalone/", "http://localhost:4000/gameframe/"].some((e=>window.location.href.startsWith(e))))
-                    return !1;
-                const e = ["localhost", "127.0.0.1", "preview.construct.net"].includes(window.location.hostname) || "true" === (0,
-                a.getQueryStringValue)("useLocalSdk");
-                return e && await (0,
-                u.wait)(500),
-                e
+                return true;
             }
             ,
             t.checkIsCrazyGames = async function() {
-                let e, n = !1;
-                const r = new Promise((t=>{
-                    e = t
-                }
-                ))
-                  , i = r=>{
-                    var i;
-                    "crazyGamesGFConfirmation" === (null === (i = null == r ? void 0 : r.data) || void 0 === i ? void 0 : i.type) && (t.GF_WINDOW = r.source,
-                    n = !0,
-                    e())
-                }
-                  , o = new Promise((async e=>{
-                    await (0,
-                    u.wait)(3e3),
-                    e()
-                }
-                ));
-                window.addEventListener("message", i, !1);
-                const s = {
-                    type: "checkCrazyGamesGF"
-                };
-                return window.postMessage(s, "*"),
-                window.parent.postMessage(s, "*"),
-                window.parent.parent.postMessage(s, "*"),
-                window.parent.parent.parent.postMessage(s, "*"),
-                await Promise.race([r, o]),
-                window.removeEventListener("message", i),
-                {
-                    isOnCrazyGames: n
+                return {
+                    isOnCrazyGames: false
                 }
             }
         },
@@ -328,12 +295,7 @@
                 async requestAd(e, t) {
                 }
                 async hasAdblock() {
-                    return void 0 !== this.adblockDetectionResult ? this.adblockDetectionResult : (this.sdk.postMessage("hasAdblock", {}),
-                    this.logger.log("Requesting adblock status"),
-                    new Promise((e=>{
-                        this.adblockDetectionResolvers.push(e)
-                    }
-                    )))
+                    return false;
                 }
                 handleEvent(e) {
                     var t, n;
@@ -359,16 +321,11 @@
                     }
                 }
                 handleAdBlockDetectionExecutedEvent(e) {
-                    const {hasAdblock: t} = e
-                      , n = !!t;
-                    if (void 0 !== this.adblockDetectionResult)
-                        return this.logger.log(`Received update for adblock state: (${n}).`),
-                        void (this.adblockDetectionResult = n);
-                    this.setAdblockDetectionResult(n),
-                    clearTimeout(this.adblockDetectionTimeout)
+                   this.adblockDetectionResult = false;
+                   this.setAdblockDetectionResult(false);
                 }
                 setAdblockDetectionResult(e) {
-                    this.adblockDetectionResult = e,
+                    this.adblockDetectionResult = false,
                     this.adblockDetectionResolvers.forEach((t=>t(e))),
                     this.adblockDetectionResolvers = []
                 }
