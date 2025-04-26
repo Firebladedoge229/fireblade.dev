@@ -175,40 +175,19 @@
               , c = new s.default("none");
             t.GF_WINDOW = null;
             t.initSdk = function(e) {
-                return new Promise((n=>{
-                    const r = window.setTimeout((()=>{
-                        window.removeEventListener("message", i, !1),
-                        (0,
-                        a.sendErrorToGf)("gf-init-response-timeout", null, {
-                            timeoutMs: 5e3
-                        }),
-                        c.error("Gf Init response timeout 5000ms"),
-                        n(null)
-                    }
-                    ), 5e3)
-                      , i = async e=>{
-                        if ("initialized" === e.data.type) {
-                            c.verbose("Received init from GF", e.data),
-                            window.clearTimeout(r),
-                            window.removeEventListener("message", i, !1);
-                            const t = e.data.data;
-                            n(t)
-                        }
-                    }
-                    ;
-                    window.addEventListener("message", i, !1),
-                    t.GF_WINDOW.postMessage({
-                        type: "init-js-sdk",
-                        data: {
-                            version: o.SDK_VERSION,
-                            sdkType: "js",
-                            ...e
-                        }
-                    }, "*")
-                }
-                ))
-            }
-            ;
+                return new Promise((n => {
+                    const simulatedData = {
+                        version: o.SDK_VERSION,
+                        sdkType: "js",
+                        ...e
+                    };
+
+                    window.setTimeout(() => {
+                        n(simulatedData);
+                    }, 0);
+
+                }));
+            };
             t.fetchSdkUser = function() {
                 return new Promise((e=>{
                     const t = window.setTimeout((()=>{
@@ -907,9 +886,7 @@
                 async init(e) {
                     return this.initializingPromise || (this.initializingPromise = new Promise((async(t,n)=>{
                         this.logger.log("Request init, options: ", e);
-                        const [r,i] = await Promise.all([(0,
-                        f.checkIsCrazyGames)(), (0,
-                        f.checkIsLocalhost)()]);
+                        const [r, i] = await Promise.all([f.checkIsCrazyGames(), Promise.resolve(true)]);
                         if (i)
                             c.default.forceEnable = !0,
                             this.sdk = new y.default;
