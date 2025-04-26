@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mini Golf</title>
+<link rel="stylesheet" href="gameloader2020.css" />
+<script src="gameloader2020.js"></script>
+<script src="cloakGame.js"></script>
+<script src="gameloader-helper.js"></script>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<script type="text/javascript">
+  var options = {
+    author: "Fireblade",
+    logo: "logo.png",
+    gameName: "Mini Golf",
+    gameNameEu: "Mini Golf",
+    gameUrl: "0",
+    moreLink: ("#"),
+    allowFullscreen: true,
+    locale: "en_US",
+    loader: "unity2020",
+    loaderOptions: {
+      unityLoaderUrl: "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
+      unityConfigOptions: {
+        dataUrl: "Build/d4be235f96f6cd27ffa92194a3b90bc0.data.br",
+        frameworkUrl: "Build/519bdfe20729eba21051a1e89b8d13c6.framework.js.br",
+        codeUrl: "Build/d1f5d41a54db7bfa73ce3e06fbb67124.wasm.br",
+        streamingAssetsUrl: "StreamingAssets"
+      }
+    },
+    };
+  GameInit.load(options);   
+</script>
+</body>
+</html>

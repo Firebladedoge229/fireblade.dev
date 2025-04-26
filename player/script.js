@@ -20,7 +20,10 @@ const gameMap = {
   "moto-x3m-2": "Moto X3M 2",
   "moto-x3m-3": "Moto X3M 3",
   "moto-x3m-4": "Moto X3M 4",
-  "moto-x3m-5": "Moto X3M 5"
+  "moto-x3m-5": "Moto X3M 5",
+  "cookie-clicker": "Cookie Clicker",
+  "hazmob-fps": "Hazmob FPS",
+  "mini-golf": "Mini Golf"
 };
 
 const gameGrid = document.getElementById("games");

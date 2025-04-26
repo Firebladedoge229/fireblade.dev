@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hazmob FPS</title>
+<link rel="stylesheet" href="gameloader2020.css" />
+<script src="gameloader2020.js"></script>
+<script src="cloakGame.js"></script>
+<script src="gameloader-helper.js"></script>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<script type="text/javascript">
+  var options = {
+    author: "Fireblade",
+    logo: "logo.png",
+    gameName: "Hazmob FPS",
+    gameNameEu: "Hazmob FPS",
+    gameUrl: "0",
+    moreLink: ("#"),
+    allowFullscreen: true,
+    locale: "en_US",
+    loader: "unity2020",
+    loaderOptions: {
+      unityLoaderUrl: "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
+      unityConfigOptions: {
+        dataUrl: "Build/ac826b24fd516fcb94749087d6796ada.data.br",
+        frameworkUrl: "Build/709e349f9c9a7075f134b5607cc74258.framework.js.br",
+        codeUrl: "Build/638ef7e968348c41ba43f606cb34755c.wasm.br",
+        streamingAssetsUrl: "StreamingAssets"
+      }
+    },
+    };
+  GameInit.load(options);   
+</script>
+</body>
+</html>
