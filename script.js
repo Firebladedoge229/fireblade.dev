@@ -36,7 +36,14 @@ Object.entries(gameMap)
 
     const img = document.createElement("img");
     img.className = "thumbnail";
-    img.src = `${folder}/thumbnail.png`;
+
+    // Check if the game is "msdos"
+    if (folder === "msdos") {
+      img.src = `${folder}/thumbnail.png`;
+    } else {
+      img.src = `${folder}/thumbnail.avif`;
+    }
+
     img.alt = `${displayName} thumbnail`;
 
     const title = document.createElement("div");
