@@ -1,1 +1,0 @@
-{"ID":"recipe_trufflepasta","image":{"alias":"icon_recipes_trufflepastaplate"},"duration":600,"ingredients":[{"key":"truffle","amount":10},{"key":"egg","amount":5},{"key":"milk","amount":3}],"reward":["coin_5"]}

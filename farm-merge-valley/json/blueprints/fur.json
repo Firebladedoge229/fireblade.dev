@@ -1,1 +1,0 @@
-{"id":"fur","extends":"base_ingredient","components":{"sprite":{"alias":"ingredient_fur"},"collectable":{"reward":[{"key":"fur","amount":1}]}}}

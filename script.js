@@ -1,18 +1,18 @@
 const gameMap = {
   "2048": "2048",
-  "bank-heist": "Bank Heist",
   "cut-the-rope": "Cut the Rope",
-  "farm-merge-valley": "Farm Merge Valley",
+  "chess": "Chess",
+  "tetris": "Tetris",
   "getaway-shootout": "Getaway Shootout",
-  "houseofhazards": "House of Hazards",
+  "house-of-hazards": "House of Hazards",
   "minecraft-1.12.2-javascript": "Minecraft",
   "polytrack": "Polytrack",
   "skyriders": "Sky Riders",
   "slope": "Slope",
+  "block-blast": "Block Blast",
   "tubejumpers": "Tube Jumpers",
   "basket-random": "Basket Random",
   "moto-x3m": "Moto X3M",
-  "colortris": "Tetris",
   "msdos": "MS-DOS",
   "8-ball": "8 Ball",
   "subway-surfers": "Subway Surfers",
@@ -22,7 +22,6 @@ const gameMap = {
   "moto-x3m-4": "Moto X3M 4",
   "moto-x3m-5": "Moto X3M 5",
   "cookie-clicker": "Cookie Clicker",
-  "hazmob-fps": "Hazmob FPS",
   "mini-golf": "Mini Golf"
 };
 
