@@ -29,7 +29,7 @@ const itemGrid = document.getElementById("items");
 
 Object.entries(itemMap)
   .sort((a, b) => a[1].localeCompare(b[1]))
-  .forEach(([folderf, displayName]) => {
+  .forEach(([folder, displayName]) => {
     const card = document.createElement("a");
     card.className = "item-card";
     card.href = `${folder}`;
