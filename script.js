@@ -25,13 +25,13 @@ const gameMap = {
   "mini-golf": "Mini Golf"
 };
 
-const gameGrid = document.getElementById("games");
+const gameGrid = document.getElementById("items");
 
 Object.entries(gameMap)
   .sort((a, b) => a[1].localeCompare(b[1]))
   .forEach(([folder, displayName]) => {
     const card = document.createElement("a");
-    card.className = "game-card";
+    card.className = "item-card";
     card.href = `${folder}`;
 
     const img = document.createElement("img");
@@ -47,7 +47,7 @@ Object.entries(gameMap)
     img.alt = `${displayName} thumbnail`;
 
     const title = document.createElement("div");
-    title.className = "game-title";
+    title.className = "item-title";
     title.textContent = displayName;
 
     card.appendChild(img);
