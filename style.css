@@ -16,7 +16,7 @@ h1 {
   margin-bottom: 2rem;
 }
 
-.game-grid {
+.item-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 1.5rem;
@@ -26,7 +26,7 @@ a {
   text-decoration: none;
 }
 
-.game-card {
+.item-card {
   background: #222;
   border-radius: 4px;
   overflow: hidden;
@@ -34,7 +34,7 @@ a {
   transition: transform 0.3s;
 }
 
-.game-card:hover {
+.item-card:hover {
   transform: scale(1.03);
 }
 
@@ -44,7 +44,7 @@ a {
   object-fit: cover;
 }
 
-.game-title {
+.item-title {
   padding: 1rem;
   font-size: 1.1rem;
   text-align: center;
