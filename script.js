@@ -1,4 +1,4 @@
-const gameMap = {
+const itemMap = {
   "2048": "2048",
   "cut-the-rope": "Cut the Rope",
   "chess": "Chess",
@@ -25,11 +25,11 @@ const gameMap = {
   "mini-golf": "Mini Golf"
 };
 
-const gameGrid = document.getElementById("items");
+const itemGrid = document.getElementById("items");
 
-Object.entries(gameMap)
+Object.entries(itemMap)
   .sort((a, b) => a[1].localeCompare(b[1]))
-  .forEach(([folder, displayName]) => {
+  .forEach(([folderf, displayName]) => {
     const card = document.createElement("a");
     card.className = "item-card";
     card.href = `${folder}`;
@@ -37,7 +37,7 @@ Object.entries(gameMap)
     const img = document.createElement("img");
     img.className = "thumbnail";
 
-    // Check if the game is "msdos"
+    // Check if the item is "msdos"
     if (folder === "msdos") {
       img.src = `${folder}/thumbnail.png`;
     } else {
@@ -52,5 +52,5 @@ Object.entries(gameMap)
 
     card.appendChild(img);
     card.appendChild(title);
-    gameGrid.appendChild(card);
+    itemGrid.appendChild(card);
   });
